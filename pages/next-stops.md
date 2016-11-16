@@ -4,18 +4,21 @@ permalink: "/next-stops"
 layout: page
 ---
 
-## Heading
-We help connect students with internship and job  opportunities, as well as placement in prestigious master’s and PhD programs
+## Classics graduates go onto careers in law, medicine, academia, business and many other industries.
 
-## Our students have secured internships with:
-- Congresswoman Allyson Schwartz
-- Philadelphia Magazine
-- The Please Touch Museum
-- American Lung Association
+Internship opportunities include:
 
-## Recently, our alumni have secured coveted positions with the following employers:
+- The Barnes Foundation
+- The Philadelphia Museum of Art
+- University of Pennsylvania Museum of Art and Archaeology
+- Political campaigns
 
-- Patient access representative at St. Luke’s University Health Network
-- Digital media coordinator at Love Beets
-- Therapeutic staff support at Foundations Behavioral Health
-- Teen education coordinator at Kingsbridge Heights Community Center
+Our alumni go on to successful careers in a variety of fields, including:
+
+- Law
+- Medicine
+- Academia
+- Business
+- Finance
+- Health care
+- Museums and libraries
