@@ -4,7 +4,7 @@ permalink: "/resources"
 layout: page
 ---
 
-## Resources here here to help!
+## Resources are here to help!
 
 ## Make your Declaration
 
