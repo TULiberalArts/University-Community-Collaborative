@@ -1,10 +1,10 @@
 ---
 # Program/Department Title
-title: Nuclear Energy
+title: Greek and Roman Classics
 # Site URL (without /)
 url: https://liberalarts.temple.edu
 # Subdirectory (with / at only at beginning)
-baseurl: /nuclearenergy
+baseurl: /greekandromanclassics
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -17,7 +17,7 @@ keywords: highered, college, university, philadelphia, Temple
 # Address
 address:
   building: Anderson Hall
-  room: 8th Floor, Room 832
+  room: 3rd Floor
   street: 1114 Polett Walk
   city: Phialdelphia, PA 19122
 
@@ -25,10 +25,10 @@ address:
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
 social: 
-  # Facebook - https://facebook.com/USERNAME
+  # Facebook - https://www.facebook.com/TempleClassics
   # if your page does not have a custom URL, create one!
   facebook: TempleLiberalArts
-  # Twitter - https://twitter.com/USERNAME
+  # Twitter - https://twitter.com/TempleClassics
   twitter: TULiberalArts
   # Instagram - https://www.instagram.com/USERNAME
   instagram: TULiberalArts
