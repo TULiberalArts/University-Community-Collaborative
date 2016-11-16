@@ -44,7 +44,3 @@ View a list of our Spring 2017 courses [here](http://www.cla.temple.edu/classics
 ## Awards/Scholarships
 
 Every year the department gives out the Professor Nicholas Vlachos Memorial Award for excellence in classical languages and literatures to a senior Greek and Roman Classics major. Classics students are eligible for, and often win, other college awards in the humanities and for service (docx.) (You will need Microsoft Word, or a Microsoft Word Viewer to access this file.).
-
-## Study Abroad
-
-Study Abroad: Greek and Roman Classics students are encouraged to study abroad, particularly at Temple University Rome. The location and course offerings in Rome make it extremely attractive to anyone interested in the ancient world. Students interested in studying in Rome or on another international campus are encouraged to consult with departmental faculty early in their career at Temple. For more information see the Study Abroad website.
