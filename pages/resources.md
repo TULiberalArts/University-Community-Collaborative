@@ -58,3 +58,7 @@ Distinction in Major requires senior honors thesis and a minimum 3.5 GPA in Gree
 4) The student and mentor should plan on a specific timetable of drafts, but the student should plan on  submitting a semi-final version of the thesis to the advisor and second reader by November 15th of the fall term or April 15 of the spring term. This version will be the basis on which the advisor and reader recommend to CLA whether the student will graduate with distinction in major. The last version of the paper should be complete by the beginning of the final exam period.
 
 5) The student will make an oral presentation to faculty and students to be scheduled at some point during the last two weeks of the semester in which the student graduates.
+
+## Study Abroad
+
+Study Abroad: Greek and Roman Classics students are encouraged to study abroad, particularly at Temple University Rome. The location and course offerings in Rome make it extremely attractive to anyone interested in the ancient world. Students interested in studying in Rome or on another international campus are encouraged to consult with departmental faculty early in their career at Temple. For more information see the [Study Abroad website](http://studyabroad.temple.edu/).
