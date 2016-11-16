@@ -44,3 +44,59 @@ View a list of our Spring 2017 courses [here](http://www.cla.temple.edu/classics
 ## Awards/Scholarships
 
 Every year the department gives out the Professor Nicholas Vlachos Memorial Award for excellence in classical languages and literatures to a senior Greek and Roman Classics major. Classics students are eligible for, and often win, other college awards in the humanities and for service (docx.) (You will need Microsoft Word, or a Microsoft Word Viewer to access this file.).
+
+## Eta Sigma Phi
+
+[Eta Sigma Phi](http://www.etasigmaphi.org/) is the national honorary collegiate society for students of Latin and/or Greek. Members are elected by local chapters which have been chartered by the society. The purposes of the Society, in the words of the constitution, are “to develop and promote interest in classical study among the students of colleges and universities; to promote closer fraternal relationship among students who are interested in classical study, including inter-campus relationship; to engage generally in an effort to stimulate interest in classical study, and in the history, art, and literature of ancient Greece and Rome.”
+
+To read the entire Eta Sigma Phi Constitution, please click [here](http://www.cla.temple.edu/classics/files/2015/11/Constitution.pdf).
+
+The Temple chapter, Zeta Beta, is very active, with recent trips to museums, productions, and even expeditions to the previous 10 national meetings of Eta Sigma Phi. If you love Classics and the ancient world, you will certainly enjoy Eta Sigma Phi.
+
+## Initiation
+
+[Download an Application](http://www.cla.temple.edu/classics/files/2015/11/Eta-Sigma-Phi-Registration-Form-Fall-2015.pdf)
+In order to be accepted into Eta Sigma Phi you must meet these requirements:
+
+- Have completed at least 1 class of Latin OR Greek.
+- Have earned at least a “B” average in that class of Latin OR Greek.
+- Have a least an overall 3.5 GPA.
+- Be a Classics Major or Minor, or plan to become one soon.
+- **It is possible to receive a waiver if one doesn’t quite meet the above requirements! Ask Dr. Karen Hersch for more details if this applies to you.
+If you are interested in joining Eta Sigma Phi please contact one of our co-presidents. We would love to have you!
+
+## Benefits of Membership
+
+- A membership card and certificate
+- Subscription to Nuntius, the biannual newsletter of the society
+- An annual national convention including a certamen and banquet
+- The opportunity to give academic presentations before an audience of peers and scholars
+- Annual sight translation exams in Latin and Greek
+- Honors cords and sashes for graduation
+- Bronze and silver medals of achievement
+- Eligibility for summer travel scholarships to Greece, Rome or southern Italy
+- Eligibility for a Latin teacher training scholarship
+
+Temple’s chapter has a listserv that is used to announce events, new courses and other pertinent information. To subscribe to the listserv, simply do the following:
+
+Send an email message to listserv@listserv.temple.edu In the body of the message, type:
+
+- Subscribe etasigmaphi@listserv.temple.edu
+- Your firstname
+- Your lastname
+
+## Officers and Members
+
+2016-2017 Officers
+
+- Co-Presidents- Victoria Szafara and Connor O’Neill
+- Vice President: Thomas Higgins
+- Secretary: Britt Duer
+- Treasurer: Katlyn Yost
+- Faculty Advisor: Dr. Karen Hersch
+
+## News
+
+The Fall 2016 Eta Sigma Phi Initiation Ceremony will take place in early December at the Saturnalia Festival in the IH Lounge on the 2nd floor of Anderson Hall. Stay tuned for the exact day and time!
+
+The Zeta Beta chapter will be traveling to the annual Eta Sigma Phi Convention in the Spring of 2017! This year it will take place from March 24-26 in Ann Arbor, Michigan.
