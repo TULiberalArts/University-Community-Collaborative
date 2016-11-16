@@ -22,3 +22,9 @@ Our alumni go on to successful careers in a variety of fields, including:
 - Finance
 - Health care
 - Museums and libraries
+
+## Careers
+
+What careers have alumni from your undergraduate degrees or programs of study gone on to pursue?
+
+Greek and Roman Classics offers the kind of broadly based, rigorous training that can help graduates succeed in a number of different careers. Classics majors have recently served as Secretary of State and Secretary of Defense, run the CIA, founded cable television networks and software companies and worked as senior correspondents for ABC News. Recent Temple Classics majors have gone on to law school, veterinary school, graduate school, business careers and teaching. One of them finished Penn law School and is now working for Senator Toomey. [Learn more](http://www.cla.temple.edu/classics/files/2014/11/Careers.docx). (docx.) (You will need Microsoft Word, or a Microsoft Word Viewer to access this file.)
