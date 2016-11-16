@@ -4,7 +4,7 @@ permalink: "/next-stops"
 layout: page
 ---
 
-## Classics graduates go onto careers in law, medicine, academia, business and many other industries.
+Classics graduates go onto careers in law, medicine, academia, business and many other industries.
 
 Internship opportunities include:
 
