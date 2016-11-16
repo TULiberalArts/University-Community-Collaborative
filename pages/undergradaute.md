@@ -40,3 +40,11 @@ View full list of requirements [here](http://bulletin.temple.edu/undergraduate/l
 The Department of Greek and Roman Classics offers courses in Ancient Greek and Latin, as well as a wide range of courses on the literature, culture and history of these ancient Mediterranean civilizations; these courses use English texts so that any interested student can participate.
 
 View a list of our Spring 2017 courses [here](http://www.cla.temple.edu/classics/files/2016/10/Spring-2017-Courses-in-Classics.pdf).
+
+## Awards/Scholarships
+
+Every year the department gives out the Professor Nicholas Vlachos Memorial Award for excellence in classical languages and literatures to a senior Greek and Roman Classics major. Classics students are eligible for, and often win, other college awards in the humanities and for service (docx.) (You will need Microsoft Word, or a Microsoft Word Viewer to access this file.).
+
+## Study Abroad
+
+Study Abroad: Greek and Roman Classics students are encouraged to study abroad, particularly at Temple University Rome. The location and course offerings in Rome make it extremely attractive to anyone interested in the ancient world. Students interested in studying in Rome or on another international campus are encouraged to consult with departmental faculty early in their career at Temple. For more information see the Study Abroad website.
