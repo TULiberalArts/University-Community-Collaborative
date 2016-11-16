@@ -40,7 +40,7 @@ Latin: Karen Klaiber Hersch, 215-204-5345, khersch@temple.edu
 
 Ancient Greek: Robin Mitchell-Boyask, 215-204-3672, robin@temple.edu
 
-Distinction in Major Requirements
+## Distinction in Major Requirements
 
 Distinction in Major requires senior honors thesis and a minimum 3.5 GPA in Greek, Latin and Roman Classics courses.
 
