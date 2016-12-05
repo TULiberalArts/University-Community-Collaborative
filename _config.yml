@@ -1,10 +1,10 @@
 ---
 # Program/Department Title
-title: Greek and Roman Classics
+title: Greek And Roman Classics
 # Site URL (without /)
-url: https://liberalarts.temple.edu
+url: ""
 # Subdirectory (with / at only at beginning)
-baseurl: /greekandromanclassics
+baseurl: /greek-and-roman-classics
 
 # Program Information
 # Short tagline for tweets (<100 characters)
