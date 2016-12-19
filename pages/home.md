@@ -1,7 +1,7 @@
 ---
 title: Home
 permalink: "/"
-layout: page
+layout: home
 ---
 
 The Department of Greek and Roman Classics is the vibrant home to a host of dedicated faculty members and engaging undergraduate majors. The department offers programs leading to an undergraduate major or minor in classical languages and literature as well as a major in classical civilizations or minor in ancient Mediterranean studies.
