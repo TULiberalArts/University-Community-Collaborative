@@ -1,7 +1,8 @@
 ---
 title: Undergraduate
-permalink: "/undergraduate"
+permalink: /undergraduate
 layout: page
+published: true
 ---
 
 Study the cultures and languages of two major civilizations of the ancient Mediterranean world. You will select from two major concentrations based on your interests and goals: classical civilizations or classical languages and literature. Both options offer a sound liberal arts background—skills in critical thinking, reading, and expressing oneself fluently and with cultural sophistication—that prepares you for success in any career.
@@ -20,10 +21,10 @@ Our faculty and students share a special bond that  transcends the classroom. Ad
 
 ## Academic offerings
 
- - BA in Classics with a Concentration in Classical Civilizations
- - BA in Classics with a Concentration in Classical Languages and Literature
- - Minor in Ancient Mediterranean Studies
- - Minor in Classical Languages and Literature
+ - [BA in Classics with a Concentration in Classical Civilizations](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/ba-classics-concentration-classical-civilizations/)
+ - [BA in Classics with a Concentration in Classical Languages and Literature](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/ba-classics-concentration-classical-languages-literature/)
+ - [Minor in Ancient Mediterranean Studies](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/minor-ancient-mediterranean-studies/)
+ - [Minor in Classical Languages and Literature](http://bulletin.temple.edu/undergraduate/liberal-arts/classics/minor-classical-languages-literature/)
 
 ## Program Overview/Description
 
