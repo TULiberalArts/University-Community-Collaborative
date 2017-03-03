@@ -5,15 +5,42 @@ layout: page
 published: true
 ---
 
+Chair:
+
+Daniel Berman 
+327 Anderson Hall
+[(215) 204-1640](tel:2152041640)
+[dwberman@temple.edu](mailto:dwberman@temple.edu)
+
+Undergraduate Chair:
+
+Robin Mitchell-Boyask
+326 Anderson Hall
+[(215) 204-3672](tel:2152043672)
+[robin@temple.edu](mailto:robin@temple.edu)
+
+Administrator:
+
+Michelle Pugliese
+429 Anderson Hall
+[(215) 204-5628](tel:2152045628)
+[pugliese@temple.edu](mailto:pugliese@temple.edu)
+
+Coordinator:
+
+Peggy Shadding
+Anderson Hall
+[(215) 204-8267](tel:2152048267)
+[peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu) 
+
 ## Resources are here to help!
 
 ## Placement Exams in Latin and Ancient Greek
 
 Students entering Temple University often need to take exams for proper placement in language courses. In Classics these exams are by appointment. Please contact the following people:
 
-Latin: Karen Klaiber Hersch, 215-204-5345, khersch@temple.edu
-
-Ancient Greek: Robin Mitchell-Boyask, 215-204-3672, robin@temple.edu
+- Latin: Karen Klaiber Hersch, [(215) 204-5345](tel:2152045345), [khersch@temple.edu](mailto:khersch@temple.edu)
+- Ancient Greek: Robin Mitchell-Boyask, [(215) 204-3672](tel:2152043672), [robin@temple.edu](mailto:robin@temple.edu)
 
 ## Distinction in Major Requirements
 
@@ -23,7 +50,7 @@ Distinction in Major requires senior honors thesis and a minimum 3.5 GPA in Gree
 
 2) The student must register for an independent study, choosing, where appropriate, either Greek, Latin or GR Classics 4182. A student who is completing a major in Classical language and literatures must choose Greek or Latin 4182. A student who is completing a major in Classical Civilizations must register for GR Classics 4182. If there is more than one student completing an honors thesis during the semester then those students and their advisors (and any interested faculty) will meet regularly together to discuss their projects and research techniques in general.
 
-3) By the end of the first week of the student’s last semester he or she should have confirmed with the department advisor:
+3) By the end of the first week of the studentâ€™s last semester he or she should have confirmed with the department advisor:
 
 - Eligibility by GPA
 - The thesis topic
