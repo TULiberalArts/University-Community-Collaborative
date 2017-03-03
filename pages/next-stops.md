@@ -5,6 +5,8 @@ layout: page
 published: true
 ---
 
+## Next Stops
+
 Classics graduates go onto careers in law, medicine, academia, business and many other industries.
 
 Internship opportunities include:
