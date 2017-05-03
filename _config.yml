@@ -8,7 +8,7 @@ baseurl: /greek-and-roman-classics
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Example of what the TU Theme will look like and all the wiz-bang things it can do. This Static Site was generated with Jekyll.'
+description: 'Students in the Department of Greek and Roman Classics study the cultures and languages of two major civilizations of the ancient Mediterranean world.'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -18,8 +18,8 @@ address:
   room: 3rd Floor, Room 321
   street: 1114 Polett Walk
   city: Philadelphia, PA 19122
-  email: greek-roman-classics@temple.edu
-  phone: 2152048267
+  email: <a href="mailto:greek-roman-classics@temple.edu">greek-roman-classics@temple.edu</a>
+  phone: 215-204-8267
 
 # Social Media
 # Put in only the username unless otherwise noted
