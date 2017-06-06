@@ -25,12 +25,12 @@ address:
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
 social:
-  # Facebook - https://www.facebook.com/TempleClassics
+  # Facebook - https://www.facebook.com/USERNAME
   # if your page does not have a custom URL, create one!
-  facebook: TempleLiberalArts
-  # Twitter - https://twitter.com/TempleClassics
-  twitter: TULiberalArts
-  # Instagram - https://www.instagram.com/tuliberalarts/
+  facebook: TempleClassics
+  # Twitter - https://twitter.com/USERNAME
+  twitter: TempleClassics
+  # Instagram - https://www.instagram.com/USERNAME
   instagram: TULiberalArts
   # Snapchat - USERNAME
   snapchat:
@@ -51,12 +51,12 @@ social:
 university:
   name: Temple University
   url: https://temple.edu/
-college: 
+college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
 
 # Google Tag Manager OR Google Analytics
-google_analytics: 
+google_analytics:
 
 
 google_tag_manager: GTM-58ZL5B
