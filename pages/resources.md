@@ -1,5 +1,6 @@
 ---
 title: Resources
+meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
 layout: page
 published: true
@@ -7,31 +8,31 @@ published: true
 
 Chair:
 
-Daniel Berman 
-327 Anderson Hall
-[(215) 204-1640](tel:2152041640)
-[dwberman@temple.edu](mailto:dwberman@temple.edu)
+Daniel Berman<br> 
+327 Anderson Hall<br>
+[(215) 204-1640](tel:2152041640)<br>
+[dwberman@temple.edu](mailto:dwberman@temple.edu)<br>
 
 Undergraduate Chair:
 
-Robin Mitchell-Boyask
-326 Anderson Hall
-[(215) 204-3672](tel:2152043672)
-[robin@temple.edu](mailto:robin@temple.edu)
+Robin Mitchell-Boyask<br>
+326 Anderson Hall<br>
+[(215) 204-3672](tel:2152043672)<br>
+[robin@temple.edu](mailto:robin@temple.edu)<br>
 
 Administrator:
 
-Michelle Pugliese
-429 Anderson Hall
-[(215) 204-5628](tel:2152045628)
-[pugliese@temple.edu](mailto:pugliese@temple.edu)
+Michelle Pugliese<br>
+429 Anderson Hall<br>
+[(215) 204-5628](tel:2152045628)<br>
+[pugliese@temple.edu](mailto:pugliese@temple.edu)<br>
 
 Coordinator:
 
-Peggy Shadding
-Anderson Hall
-[(215) 204-8267](tel:2152048267)
-[peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu) 
+Peggy Shadding<br>
+Anderson Hall<br>
+[(215) 204-8267](tel:2152048267)<br>
+[peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu)<br>
 
 ## Resources are here to help!
 
