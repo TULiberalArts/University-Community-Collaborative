@@ -6,34 +6,6 @@ layout: page
 published: true
 ---
 
-**Chair:**
-
-Daniel Berman<br> 
-327 Anderson Hall<br>
-[(215) 204-1640](tel:2152041640)<br>
-[dwberman@temple.edu](mailto:dwberman@temple.edu)<br>
-
-**Undergraduate Chair:**
-
-Robin Mitchell-Boyask<br>
-326 Anderson Hall<br>
-[(215) 204-3672](tel:2152043672)<br>
-[robin@temple.edu](mailto:robin@temple.edu)<br>
-
-**Administrator:**
-
-Michelle Pugliese<br>
-429 Anderson Hall<br>
-[(215) 204-5628](tel:2152045628)<br>
-[pugliese@temple.edu](mailto:pugliese@temple.edu)<br>
-
-**Coordinator:**
-
-Peggy Shadding<br>
-Anderson Hall<br>
-[(215) 204-8267](tel:2152048267)<br>
-[peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu)<br>
-
 ## Resources are here to help!
 
 ## Placement Exams in Latin and Ancient Greek
