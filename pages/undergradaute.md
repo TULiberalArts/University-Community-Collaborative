@@ -8,7 +8,7 @@ sidebar: true
 sidebar-content: > #
   ### Contact Us
 
-  <hr>
+ <hr>
 
  **Chair:** <br/>
  Daniel Berman<br> 
@@ -22,7 +22,7 @@ sidebar-content: > #
  [(215) 204-3672](tel:2152043672)<br>
  [robin@temple.edu](mailto:robin@temple.edu)<br>
 
-  <hr>
+ <hr>
 
  **Administrator:** <br/>
  Michelle Pugliese<br>
@@ -30,7 +30,7 @@ sidebar-content: > #
  [(215) 204-5628](tel:2152045628)<br>
  [pugliese@temple.edu](mailto:pugliese@temple.edu)<br>
 
-  <hr>
+ <hr>
 
  **Coordinator:** <br/>
  Peggy Shadding<br>
