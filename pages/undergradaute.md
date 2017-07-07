@@ -6,37 +6,35 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: > #
-  ### Contact Us
+  **Chair:**  
+   Daniel Berman  
+   327 Anderson Hall  
+   [(215) 204-1640](tel:2152041640)  
+   [dwberman@temple.edu](mailto:dwberman@temple.edu)  
+   
+   ___
+   
+   **Undegraduate Chair:**  
+   Robin Mitchell-Boyask  
+   326 Anderson Hall  
+   [(215) 204-3672](tel:2152043672)  
+   [robin@temple.edu](mailto:robin@temple.edu)  
+   
+   ___
+   
+   **Administrator:**  
+   Michelle Pugliese  
+   429 Anderson Hall   
+   [(215) 204-5628](tel:2152045628)  
+   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
+   
+   ___
 
-  <hr>
-
-  **Chair:** <br/>
-  Daniel Berman<br> 
-  327 Anderson Hall<br>
-  [(215) 204-1640](tel:2152041640)<br>
-  [dwberman@temple.edu](mailto:dwberman@temple.edu)<br>
-
-  **Undergraduate Chair:** <br/>
-  Robin Mitchell-Boyask<br>
-  326 Anderson Hall<br>
-  [(215) 204-3672](tel:2152043672)<br>
-  [robin@temple.edu](mailto:robin@temple.edu)<br>
-
-  <hr>
-
-  **Administrator:** <br/>
-  Michelle Pugliese<br>
-  429 Anderson Hall<br>
-  [(215) 204-5628](tel:2152045628)<br>
-  [pugliese@temple.edu](mailto:pugliese@temple.edu)<br>
-
-  <hr>
-
-  **Coordinator:** <br/>
-  Peggy Shadding<br>
-  Anderson Hall<br>
-  [(215) 204-8267](tel:2152048267)<br>
-  [peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu)<br>
+   **Coordinator:**  
+   Peggy Shadding  
+   Anderson Hall    
+   [(215) 204-8267](tel:2152048267)   
+   [peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu)  
 ---
 
 Study the cultures and languages of two major civilizations of the ancient Mediterranean world. You will select from two major concentrations based on your interests and goals: classical civilizations or classical languages and literature. Both options offer a sound liberal arts background—skills in critical thinking, reading, and expressing oneself fluently and with cultural sophistication—that prepares you for success in any career.
