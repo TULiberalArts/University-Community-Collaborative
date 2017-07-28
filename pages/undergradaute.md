@@ -5,7 +5,7 @@ permalink: /undergraduate/
 layout: page
 published: true
 sidebar: true
-sidebar-content: > #
+sidebar-content: |
   **Chair:**  
    Daniel Berman  
    327 Anderson Hall  
@@ -34,7 +34,7 @@ sidebar-content: > #
    Peggy Shadding  
    Anderson Hall    
    [(215) 204-8267](tel:2152048267)   
-   [peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu)  
+   [peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu)
 ---
 
 Study the cultures and languages of two major civilizations of the ancient Mediterranean world. You will select from two major concentrations based on your interests and goals: classical civilizations or classical languages and literature. Both options offer a sound liberal arts background—skills in critical thinking, reading, and expressing oneself fluently and with cultural sophistication—that prepares you for success in any career.
@@ -50,6 +50,8 @@ Our Classics Club — open to all majors and minors — and our chapter of the n
 ## Research The Classics
 
 Our faculty and students share a special bond that  transcends the classroom. Advanced majors have  opportunities to assist faculty with research both on-campus and around the world.
+
+When you are ready to apply, submit your application online at [admissions.temple.edu/apply](http://admissions.temple.edu/apply).
 
 ## Academic offerings
 
