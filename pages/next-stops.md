@@ -1,11 +1,11 @@
 ---
 title: Next Stops
-meta-keywords: 3 or 4 unique for this page
 permalink: /next-stops/
 layout: page
+keywords: ''
+description: >-
 published: true
 ---
-
 ## Next Stops
 
 Classics graduates go onto careers in law, medicine, academia, business and many other industries.
