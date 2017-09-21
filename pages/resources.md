@@ -1,11 +1,11 @@
 ---
 title: Resources
-meta-keywords: 3 or 4 unique for this page
 permalink: /resources/
 layout: page
+keywords: ''
+description: >-
 published: true
 ---
-
 ## Resources are here to help!
 
 ## Placement Exams in Latin and Ancient Greek
