@@ -4,7 +4,7 @@ permalink: /announcements/
 layout: page
 keywords: ''
 description: >-
-published: true
+published: false
 ---
 ## Announcements
 
