@@ -1,8 +1,8 @@
 ---
-title: Graduate
-permalink: "/graduate/"
+title: Programs
+permalink: /programs/
 layout: page
 keywords: ''
 description: >- 
-published: false
+published: true
 ---
