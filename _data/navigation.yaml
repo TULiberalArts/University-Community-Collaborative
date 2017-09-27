@@ -1,10 +1,12 @@
-- text: Undergraduate
-  url: /undergraduate/
-- text: Faculty
-  url: /faculty/
+- text: Programs
+  url: /programs/
 - text: Research
   url: /research/
-- text: Resources
-  url : /resources/
-- text: Next Stops
-  url : /next-stops/
+- text: Technical Assistance
+  url: /technical-assistance/
+- text: Announcements
+  url : /announcements/
+- text: Videos
+  url : /videos/
+- text: Donate
+  url:  /donate/
