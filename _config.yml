@@ -1,8 +1,8 @@
 ---
 # Program/Department Title
-title: Greek And Roman Classics
+title: University Community Collaborative
 # Subdirectory (with / at only at beginning)
-baseurl: /greek-and-roman-classics
+baseurl: /university-community-collaborative
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
 
@@ -11,30 +11,30 @@ production: https://www.cla.temple.edu
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: 'Students in the Department of Greek and Roman Classics study the cultures and languages of two major civilizations of the ancient Mediterranean world.'
+description: ''
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
 # Address
 address:
-  building: Anderson Hall
-  room: 321
-  street: 1114 Polett Walk
+  building: Gladfelter Hall
+  room: 4th Floor
+  street: 1115 Polett Walk
   city: Philadelphia, PA 19122
-  email: greek-roman-classics@temple.edu
-  phone: 215-204-8267
+  email: 
+  phone: 215-204-6276
 
 # Social Media
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
 social:
-  # Facebook - https://www.facebook.com/USERNAME
+  # Facebook - https://www.facebook.com/The-University-Community-Collaborative-152289177322/
   # if your page does not have a custom URL, create one!
-  facebook: TempleClassics
-  # Twitter - https://twitter.com/USERNAME
-  twitter: TempleClassics
+  facebook: The University Community Collaborative
+  # Twitter - https://twitter.com/TempleUCC
+  twitter: TempleUCC
   # Instagram - https://www.instagram.com/USERNAME
-  instagram: TULiberalArts
+  instagram: 
   # Snapchat - USERNAME
   snapchat:
   # GitHub - https://github.com/USERNAME or https://github.com/USERNAME/REPO
@@ -65,9 +65,9 @@ google_analytics:
 google_tag_manager: GTM-58ZL5B
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
-events-feed: https://liberalarts.temple.edu/events/greek-and-roman-classics/csv
-news-feed: https://liberalarts.temple.edu/news/greek-and-roman-classics/csv
-faculty-feed: https://liberalarts.temple.edu/profiles/greek-and-roman-classics/csv
+events-feed: https://liberalarts.temple.edu/events/university-community-collaborative/csv
+news-feed: https://liberalarts.temple.edu/news/university-community-collaborative/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/university-community-collaborative/csv
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
