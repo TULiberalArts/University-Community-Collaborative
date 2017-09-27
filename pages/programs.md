@@ -7,33 +7,23 @@ description: >-
 published: true
 sidebar: true
 sidebar-content: |
-  **Chair:**  
-   Daniel Berman  
-   327 Anderson Hall  
-   [(215) 204-1640](tel:2152041640)  
-   [dwberman@temple.edu](mailto:dwberman@temple.edu)  
+  **Executive Director:**  
+   Barbara Ferman, PhD    
+   [(215) 204-6276](tel:2152046276)  
+   [bferman@temple.edu](mailto:bferman@temple.edu)  
    
    ___
    
-   **Undegraduate Chair:**  
-   Robin Mitchell-Boyask  
-   326 Anderson Hall  
-   [(215) 204-3672](tel:2152043672)  
-   [robin@temple.edu](mailto:robin@temple.edu)  
+   **VOICES Program Coordinator:**  
+   Johannah Bennett    
+   [(215) 204-3871](tel:2152043871)  
+   [johannah@temple.edu](mailto:johannah@temple.edu)  
    
    ___
    
-   **Administrator:**  
-   Michelle Pugliese  
-   429 Anderson Hall   
-   [(215) 204-5628](tel:2152045628)  
-   [pugliese@temple.edu](mailto:pugliese@temple.edu)  
-   
+   **Media Productions & Communications Manager:**  
+   Nuala Cabral     
+   [(215) 204-6185](tel:2152046185)  
+   [nuala.cabral@temple.edu](mailto:nuala.cabral@temple.edu)    
    ___
-
-   **Coordinator:**  
-   Peggy Shadding  
-   Anderson Hall    
-   [(215) 204-8267](tel:2152048267)   
-   [peggy.shadding@temple.edu](mailto:peggy.shadding@temple.edu)
 ---
