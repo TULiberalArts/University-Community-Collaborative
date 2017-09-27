@@ -1,82 +1,78 @@
 ---
 title: Research
-permalink: "/research/"
+permalink: /research/
 layout: page
 keywords: ''
 description: >-
 published: true
 ---
+## Building Collective Knowledge
 
-## Classical World
+The Collaborative seeks to build the collective knowledge of the youth leadership and education communities through **discussion groups, publications and conference presentations**. All work is conducted in collaborative fashion and designed to inform practice.
 
-Classical World (ISSN 0009-8418) is the quarterly journal of The Classical Association of the Atlantic States, published on a seasonal schedule with Fall (September-November), Winter (December-February), Spring (March-May), and Summer (June-August) issues. Begun in 1907 as The Classical Weekly, this peer-reviewed journal publishes contributions on all aspects of Greek and Roman literature, history, and society; on the classical tradition; on the history of classical scholarship; and on the teaching of Latin, Greek, and classical civilization (see table of contents for the archive of recent issues). The ideal reader of Classical World is a scholarly teacher or a teaching scholar, and the ideal contributor has something to say to this reader. In addition to publishing original articles, the journal also features authoritative bibliographies of recent research on ancient authors and topics, regular surveys of textbooks and audio-visual materials, and extensive and timely reviews of scholarly books on the classics.
+## Discussion Groups
 
-Classical World is indexed in L’Année philologique, Article@INIST, ArticleFirst, Arts & Humanities Citation Index, Book Review Digest, Current Contents/Arts & Humanities, Humanities Index International, Index Philosophicus, International Bibliography of Periodical Literature (IBZ), International Bibliography of Book Reviews of Scholarly Literature (IBR), the MLA International Bibliography, Periodicals Content Index, and Wilson OmniFile. Full-text electronic access to the journal is provided by Project Muse, with coverage beginning with CW 99.1 (Fall 2005); Ithaka (formerly JSTOR) with coverage of Classical World (formerly called The Classical Weekly) from its inception to 2005; and H.W. Wilson, via WilsonWeb, with coverage beginning with CW 95.2 (Winter 2002).
+The Collaborative facilitates discussion groups on timely issues such as youth violence, needs of youth workers, and youth in the media, among others. These groups are typically comprised of practitioners, researchers, youth and college students. The groups are designed to exchange ideas, broaden understanding and, ultimately, shape larger practices.
 
-For more information, please visit Classical World online.
+## Publications
 
-## News
+## Shifting Stereotypes and Storylines: The Political Potential of Youth Media
+_by Barbara Ferman and Natalia Smirnov_
 
-Classical World Journal Comes to Temple (excerpt)
-January 22, 2014
-Temple University News
-Susan Vogel
+“Shifting Stereotypes and Storylines: The Political Potential of Youth Media.” (2016) by Barbara Ferman and Natalia Smirnov. In Contemporary Youth Activism: Advancing Social Justice in the United States, (Praeger) eds. Jerusha Conner and Sonia Rosen. Follow this [link](https://liberalarts.temple.edu/sites/liberalarts/files/Ferman%20%26%20Smirnov%202015%20%E2%80%93%20Shifting%20Stereotypes%20and%20Storylines.pdf) for a full pdf of the article. 
 
-“Robin Mitchell-Boyask, chair of the Department of Greek and Roman Classics in the College of Liberal Arts, has been named co-editor of the renowned journal Classical World. That quarterly publication has moved from New York University—where it was based for the past 20 years—to Temple.
 
-Considered one of the foremost academic journals about the classics, Classical World is published by The Johns Hopkins University Press and is in its 107th year.
+### The Challenges of Agenda Conflict in Higher-Education-Community Research Partnerships
+_by Barbara Ferman and T.L. Hill_
 
-Having such a publication housed at Temple highlights the strengths of the Classics Department, the accomplished faculty of which includes a member at the Institute for Advanced Study in Princeton, New Jersey (Assistant Professor Alex Gottesman) and a 2005 Cambridge fellow (Mitchell-Boyask). In the past decade, its research output also has evolved. Since 2008, five books authored by faculty members have been published or accepted for publication by Cambridge University Press, considered one of the most prestigious academic presses in the world.”
+Responding to both the proliferation of higher-education-community partnerships and the paucity of studies that report the perspective of the community partners in such relationships, we interviewed community leaders to learn about their motivations for and experiences of participating in higher-education-community research partnerships. The article reports community leaders’ assessments of the benefits and challenges of engaging in such partnerships, shares their advice for both community and university-based actors considering involvement in such partnerships, and explores the larger institutional and structural issues that bedevil higher-education-community partnerships. Follow this [link](https://liberalarts.temple.edu/sites/liberalarts/files/jua_article.pdf) for a full pdf of the article. _Journal of Urban Affairs, 2004_
 
-The original article can be viewed in its entirety here.
+### Educating for Democracy: Reflections From a Work in Progress
+_by Barbara Ferman_
 
-Classical World Editorial Office
+Why are Americans, and young Americans in particular, so turned off to government and politics? And, what can be done to arrest these trends? In this article, I suggest that three primary, and mutually reinforcing, trends, which can be summed up as the ‘‘relevance factor,’’ the ‘‘negativity factor,’’ and the ‘‘triumphant market factor,’’ have conspired to preempt any interest in government and politics on the part of young people. Consequently, these young people do not develop the skills and knowledge that democratic participation requires nor do they see a need to do so. As educators, how- ever, we have a unique opportunity to address these barriers and, thus, to help repair a key aspect of our democratic fabric—the willingness and ability of citizens to partici- pate in the well-being of the society and its political institutions and processes. This article presents a case study of such an effort at Temple University, a large public institution with a diverse student body located in the heart of Philadelphia. Follow this [link](https://liberalarts.temple.edu/sites/liberalarts/files/educating_for_democracy.pdf) for a full pdf of the article. _Journal of Political Science Education 2012_
 
-Classical World at Temple University
-1114 Polett Walk | 321 Anderson Hall
-Philadelphia, PA 19122
-clswrld@temple.edu
+### The Role of Institutions in Community Building: The Case of West Mt. Airy, Philadelphia
+_by Barbara Ferman and Patrick Kaylor_
 
-Co-Editors:
+Currently, we are told that rapid advances in technology have rendered place almost irrelevant in many circumstances. Complementing this is the research on social networks that has demonstrated the rich existence of spatial communities. Given these trends, the question facing us is, can we have geographically based communities? Follow this [link (https://liberalarts.temple.edu/sites/liberalarts/files/roles_of_institutions.pdf) for a full pdf of the article. _Nonprofits in Urban America 2000_
 
-Robin Mitchell-Boyask, Temple University
-Lee T. Pearcy, Bryn Mawr College
-Associate Editor:
+### Leveraging Social Capital: The University as Educator and Broker
+_by Barbara Ferman_
 
-Judith P. Hallett, University of Maryland, College Park
-Associate Editor:
+Universities can significantly enrich the communities in which they are located. Through their educational role, they contribute to the overall wellbeing of the community by helping shape an enlightened citizenry and productive labor force. Through the musical, theatrical, and artistic activities they produce and sponsor, universities enhance the cultural life of the surrounding community, attracting residents and businesses in the process. Yet despite the myriad contributions of institutions of higher learning, their potential for community development has been and often still is overlooked by policy makers, even those within universities. Follow this [link (https://liberalarts.temple.edu/sites/liberalarts/files/social_capital_in_the_city.pdf) for a full pdf of the article. _Social Capital in the City 2006_
 
-Victoria Pedrick, Georgetown University
-Associate Editor:
+### Pathways to College and to Social Justice Leadership
+_by Barbara Ferman_
 
-James Romm, Bard College
-Reviews Editor:
+Involving youth in high-quality, longterm civic leadership activities can yield many positive academic and social outcomes. An overall approach to working with youth rather than a discrete program, the UCCP’s continuum of after- school programming, credit-bearing internships, peer education activities, media production, and paid employment opportunities is designed to keep youth involved at different levels and capacities over an extended period of time, including the critical transition from high school to college or employment. This continuum provides participants with unique opportunities to address issues that are relevant to their lives while forming connections to other youth and to college student mentors. Follow this [link (https://liberalarts.temple.edu/sites/liberalarts/files/diversity_and_democracy.pdf) for a full pdf of the article. _Diversity & Democracy 2012_
 
-Gareth Williams, Columbia University
-Editorial Assistant:
+### Violence Through the Eyes of Youth: A Photovoice Exploration
+_by Jill Chonody, Barbara Ferman, Jill Amitrani-Welsh, and Travis Martin_
 
-Abbe Walker, Bryn Mawr CollegeCAAS
-President:
+In 2001 the CDC declared youth violence a public health issue. In summer 2008, we embarked on a project designed to explore the issue of violence from the standpoint of youth who are exposed to and affected by violence in their communities. Using photovoice as the primary methodology, the project sought to develop a more nuanced and deeper understanding of these issues, while simultaneously giving youth a voice and further developing their critical thinking skills. Digital images produced by the youth and the subsequent structured conversations focused on representations of violence, causes of violence and ways to address violence. Analyses of the images and conversations, especially in the context of the literatures on youth violence, race and poverty, support the utility of photovoice as a tool for understanding how youth perceive violence and underscore the need to listen to the voices of those affected by violence. Follow this [link (https://liberalarts.temple.edu/sites/liberalarts/files/violence-through-eyes-of-youth.pdf) for a full pdf of the article._Journal of Community Psychology 2013_
 
-Janet M. Martin, Princeton UniversityCAAS
-Executive Director:
+## Conference Presentations
 
-Mary Brown, Valley Forge Military Academy
-Subscriptions
-
-The individual membership rate is $35 (print). Institutional rate per year is $65 (print); $72 (online); $91 (print and online). Print subscribers in Canada or Mexico, please add $10 postage; all other countries, add $13 airfreight. Prepayment is required for shipment or access.
-
-Send subscription inquiries, orders, and business correspondence to:
-
-The Johns Hopkins University Press, Journals Division
-PO Box 19966
-Baltimore, MD 21211-0966 (USA)
-
-By Phone
-Local: (410) 516-6987
-Toll-free: 1-800-548-1784 (United States & Canada)
-Fax: (410) 516-6968
-
-Online
-jrnlcirc@press.jhu.edu
-https://www.press.jhu.edu/journals/classical_world/
+- **National Youth Leadership Council**. Denver, CO March 14, 2013.
+- **Philadelphia Higher Education Network for Neighborhood Development (PHENND)** Philadelphia, PA. March 1 2013.
+- **Promising Practices-Proven Strategies: Strengthening Youth, Families and Communities through Quality Extra Learning Opportunities’**, Pennsylvania Department of Education. Harrisburg, PA. March 2011, March 2010, and March 2007.
+- **Action Civics Conference. Harvard University**, Cambridge, MA. August 28-30 2010.
+- **Pennsylvania Statewide Afterschool Youth Development Network (PSAYDN)** September 14 2010.
+- **One Voice, One City: Education and Empowerment Summit. Temple University**. Philadelphia, PA June 2010.
+- **Student Leadership Conference**. Philadelphia, PA June 2010.
+- **Chester Youth Empowerment Summit**. Chester, PA May 2010.
+- **PA BUSTED! Conference**. Temple University. Philadelphia, PA May 2009.
+- **Fielding New Strategies for Community Development. Rutgers University**, Camden, NJ. April 22 2009.
+- **Youth Leadership Conference. United Way of Southeastern Pennsylvania and the Greater Philadelphia Federation of Settlements**. Philadelphia, PA December 2008.
+- **Eastern Regional Conference on After School Programming**. The After-School Institute-TASI. Baltimore, MD May 8-9, 2008.
+- **Philadelphia’s Young Women Symposium**. Philadelphia School District. Philadelphia, PA March, 2008.
+- **Youth Leadership Conference**. United Way of Southeastern Pennsylvania and the Greater Philadelphia Federation of Settlements. Philadelphia, PA. November 2007.
+- **Journalism Center on Children and Families at the National Press Club**, Washington, DC. November 12, 2007.
+- **Philadelphia’s After School Youth Development Network**. Philadelphia, PA. June 18, 2007.
+- **Southeastern Pennsylvania Regional After School Summit**. Widener University. Chester, PA. May 24, 2007.
+- **Delaware Valley Grant Makers**. Chester, PA. May 3, 2006.
+- **Neighborworks Conference**. Atlanta, GA. February 22, 2006.
+- **Juvenile Justice Delinquency Prevention Conference**. Washington, DC. January 4, 2006
+- **American Youth Policy Forum**. Washington, DC. October 4, 2002.
+- **International Conference on Higher Education Assisted Community Schools as Sights of Civic Engagement**. Philadelphia, PA. March 29, 2001.
