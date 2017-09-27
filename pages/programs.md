@@ -36,17 +36,17 @@ sidebar-content: |
    [(215) 204-2007](tel:2152042007)      
 ---
 
-## Programs
-
-### Building Young Leaders
+## Building Young Leaders
 
 Engaging approximately 130 youth per year (ages 14-24), our programming is distinguished by its emphasis on long term development, its incorporation of youth leaders into the Collaborative’s organizational structure, its social justice/community building orientation and its location on a university campus.  This combination has created a large cadre of high school and college students who have followed the civic pathway to college and the college pathway to civic leadership.
 
-### The Collaborative Continuum
+## The Collaborative Continuum
 
 The Collaborative Continuum, a series of afterschool and summer programs, credit bearing internships, peer education activities, media production, and paid employment, is designed to keep older youth effectively engaged with us during their high school years and through their transition to higher education.  The overarching goal of the continuum is to foster young leaders by building the necessary foundations of confidence and self esteem, developing the 21st century skills upon which effective leadership rests, creating an awareness of larger social, economic and political issues, and nurturing the kinds of values that underlie a fair and just world.
 
-## POPPYN
+## Programs
+
+### POPPYN
 
 > “I learned how to operate the camera, break out of my shell and be comfortable with people.” - Tiffani
 
@@ -67,7 +67,7 @@ Follow POPPYN on social media!
 - [Youtube](http://youtube.com/user/whatsPOPPYN)
 - [Instagram](https://www.instagram.com/whatspoppyn/)
 
-## Leaders Corps
+### Leaders Corps
 
 **Leaders Corps** provides paid leadership positions within The Collaborative for former program participants to facilitate all youth leadership programs, assist in training and technical assistance activities and participate in other aspects of the organization.
 
@@ -75,7 +75,7 @@ Follow POPPYN on social media!
 
 All programming is implemented by our Leaders Corps, a dynamic team of former program participants who are now college students serving as de-facto role models for younger cohorts. Leaders Corps members receive ongoing support and professional development that prepares them to facilitate Collaborative programs, support training and technical assistance at other organizations, and conduct workshops in the community and at professional conferences.  In addition to developing participants’ skills, leadership, and confidence, this practice has shaped career and educational aspirations. Many of our former Leaders Corps members are teaching in Philadelphia and other cities and working in the nonprofit and public sectors. Additionally, many have pursued policy-oriented graduate and law school programs. These alums have taken their leadership on the road, helping to inspire a new generation of social justice leaders. Their example also serves as a powerful motivator for high school students who see in it the civic pathway to college and the college pathway to leadership.
 
-## Leadership Development Institute
+### Leadership Development Institute
 
 **Leadership Development Institute** is an intensive 2 week summer program through which participants learn the core principles of positive youth development, networking, community outreach, mentorship, youth organizing and use of media as an instrument in building community and driving social change.
 
@@ -83,7 +83,7 @@ All programming is implemented by our Leaders Corps, a dynamic team of former pr
 
 Participants who have been through VOICES, POWER or YAS and who demonstrate a readiness to assume a leadership role within the Collaborative or in other organizations can apply to the Leadership Development Institute.  Grounded in the Collaborative’s philosophy of positive youth leadership development and social justice, the Institute provides intensive training in group facilitation, project development and management, curriculum design and implementation, community outreach and networking, media as a tool for positive social change, and working with diverse populations.  Successful graduates can apply for a paid position on the Leaders Corps.  The LDI meets for 2 weeks, 25 hours per week in the summer.  Enrollment is typically between 8-12 participants.
 
-## Youth Action Scholars
+### Youth Action Scholars
 
 Youth Action Scholars provides the next step for youth who have completed VOICES or the POWER Internship. Over the course of a year, participants form a team to identify an issue, conduct related research to become experts in the topic, and raise awareness through community educational workshops and events.
 
@@ -93,7 +93,7 @@ For youth who have gone through VOICES or POWER, this year long program equips s
 
 > “Ever since I joined the Youth Action Scholars, I have gained skills to better myself as a leader.  In my school, I have begun to help people understand things that I have learned…The Leaders Corps and staff have supported me wonderfully.  In don’t  think anything can be done to better support me.”  -YAS participant, 2010
 
-## POWER Internship
+### POWER Internship
 
 POWER Internship recognizes the relationship between educational and workplace skills, integrating nonprofit work experience with the development of foundational academic and technical skills through collaborative research, critical thinking, communication, public speaking and media production projects.
 
@@ -109,7 +109,7 @@ Follow POWER Internship on social media!
 - [Facebook](http://facebook.com/)
 - [Youtube](http://youtube.com/user/theUCCP)
 
-## Temple Youth VOICES
+### Temple Youth VOICES
 
 Temple Youth VOICES seeks to build the individual and collective power of youth by integrating leadership development, community outreach and project based learning in a supportive, team environment.
 
