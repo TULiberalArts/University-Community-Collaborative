@@ -7,8 +7,6 @@ published: true
 
 ## Videos
 
-[![Listen Up](https://youtu.be/mR1lpnaqWKM)]
-
 
 
 
