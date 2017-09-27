@@ -4,21 +4,28 @@ permalink: /
 layout: home
 description: >-
 keywords: ''
-feature: false
+feature: true
 feature-title: 
-feature-image:
-feature-body:  
+feature-image: UCC logo.png
+feature-body: Founded in 1997, the Collaborative (formerly the UCCP) began youth programming in 2001 with a single program (VOICES) and one part-time staff person.  Since then, we have developed a continuum that provides opportunities for older youth over a multi-year period, launched an award winning youth produced TV News Show, developed a successful training and technical assistance component, increased our full-time staff to 7, developed a very strong Leaders Corps of approximately 18 youth who serve as part-time staff, and secured funding from major foundations,  federal, state and local governments, individual donors and fee for service activities.
 published: true
 ---
 
-The Department of Greek and Roman Classics is the vibrant home to a host of dedicated faculty members and engaging undergraduate majors. The department offers programs leading to an undergraduate major or minor in classical languages and literature as well as a major in classical civilizations or minor in ancient Mediterranean studies.
+## Mission Statement
 
-Students in the Department of Greek and Roman  Classics study the cultures and languages of two  major civilizations of the ancient Mediterranean world. They select from two major concentrations based on their interests and goals:
+The Collaborative prepares and supports youth and young adults to become confident, effective leaders and creates cultures that value and integrate the contributions of youth, thereby building stronger communities.
 
-- Classical Civilizations 
-- Classical Languages and Literature 
+## Vision 
 
-Both options offer a sound liberal arts background — skills in critical thinking, reading, and expressing oneself fluently and with cultural sophistication — that prepares students for success in any career.
+Our long term vision is to shift the approach to working with older youth from one that focuses on short term interventions to one that embraces a long term view, providing youth with opportunities to grow into leadership positions and supporting them once they are there.  Our training of young leaders, our continuum model, our capacity building assistance to other organizations and subsequent seeding of leadership initiatives within those organizations, and the work of our former participants who are now in the nonprofit, public and educational sectors are all steps towards achieving this long term vision.
+
+## Activities
+
+Our activities are concentrated in three areas:
+
+- Building young leaders through our programming continuum
+- Building organizational and community capacity through Training and Technical Assistance
+- Building collective knowledge through research
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
