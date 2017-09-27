@@ -7,7 +7,7 @@ published: true
 
 ## Videos
 
-<iframe width="500" height="281" src="https://www.youtube.com/embed/mR1lpnaqWKM" frameborder="0" allowfullscreen></iframe>
+[![Listen Up](https://youtu.be/mR1lpnaqWKM)]
 
 
 
