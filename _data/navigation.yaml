@@ -4,9 +4,11 @@
   url: /research/
 - text: Technical Assistance
   url: /technical-assistance/
+- text: Faculty
+  url: /faculty/
 - text: Announcements
-  url : /announcements/
+  url: /announcements/
 - text: Videos
-  url : /videos/
+  url: /videos/
 - text: Donate
-  url:  /donate/
+  url: /donate/
