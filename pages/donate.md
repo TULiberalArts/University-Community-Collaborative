@@ -11,7 +11,7 @@ published: true
 To make an online donation to The Collaborative, please follow this [link](http://giving.temple.edu/givetoUCCP).
 
 ## Funders
-
+---
 The Collaborative has received support from the following:
 
 ### Foundations
@@ -52,7 +52,7 @@ Philadelphia Youth Network
 United Way of Southeastern PA
 
 ## Collaborations
-
+---
 The Collaborative works with many organizations locally and nationally to promote better opportunities for young people.  We are proud to be part of the following collective endeavors.
 
 ### Allegheny West Consortium (co-founder)
