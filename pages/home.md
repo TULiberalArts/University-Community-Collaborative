@@ -6,7 +6,7 @@ description: >-
 keywords: ''
 feature: true
 feature-title: 
-feature-image: 
+feature-image: Leadership Development Institute.jpg
 feature-body: Founded in 1997, the Collaborative (formerly the UCCP) began youth programming in 2001 with a single program (VOICES) and one part-time staff person.  Since then, we have developed a continuum that provides opportunities for older youth over a multi-year period, launched an award winning youth produced TV News Show, developed a successful training and technical assistance component, increased our full-time staff to 7, developed a very strong Leaders Corps of approximately 18 youth who serve as part-time staff, and secured funding from major foundations,  federal, state and local governments, individual donors and fee for service activities.
 published: true
 ---
