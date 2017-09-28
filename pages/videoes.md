@@ -8,14 +8,14 @@ published: true
 ## Videos
 
 - [Listen Up](https://www.youtube.com/watch?v=mR1lpnaqWKM&feature=youtu.be)
-- [![Power Over Bullying](https://img.youtube.com/vi/bM-orb7CDcM&feature=youtu.be.jpg)](https://youtu.be/bM-orb7CDcM)
-- [![Youth and Housing Insecurity](https://img.youtube.com/vi/Cp-9wj1wgSg&feature=youtu.be)](https://youtu.be/Cp-9wj1wgSg)
-- [![POPPYN Ep 15: The Express](https://img.youtube.com/vi/qJo7yNF2SYg)](https://youtu.be/qJo7yNF2SYg)
-- [![POPPYN Ep 12: Let’s Talk About Sex](https://img.youtube.com/vi/qHE35-CUWns)](https://www.youtube.com/watch?v=qHE35-CUWns)<br/>
+- [Power Over Bullying](https://youtu.be/bM-orb7CDcM)
+- [Youth and Housing Insecurity](https://youtu.be/Cp-9wj1wgSg)
+- [POPPYN Ep 15: The Express](https://youtu.be/qJo7yNF2SYg)
+- [POPPYN Ep 12: Let’s Talk About Sex](https://www.youtube.com/watch?v=qHE35-CUWns)<br/>
 In this episode we explore sexual health, sexuality, consent and youth perceptions around sex. Check it out and let us know what u think.
-- [![POPPYN Ep 8: How Philly gets PHIT](https://img.youtube.com/vi/EY6cuTXauWM)](https://youtu.be/EY6cuTXauWM)<br/>
+- [POPPYN Ep 8: How Philly gets PHIT](https://youtu.be/EY6cuTXauWM)<br/>
 In this episode, POPPYN covers the ways that young people get and stay fit around Philly.
-- [![POPPYN Ep 21: Youth and the Foster Care System](https://img.youtube.com/vi/vlhcwYQDylI)](https://www.youtube.com/watch?v=vlhcwYQDylI)
+- [POPPYN Ep 21: Youth and the Foster Care System](https://www.youtube.com/watch?v=vlhcwYQDylI)
 
 ## Awards
 
