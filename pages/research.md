@@ -15,6 +15,7 @@ The Collaborative seeks to build the collective knowledge of the youth leadershi
 The Collaborative facilitates discussion groups on timely issues such as youth violence, needs of youth workers, and youth in the media, among others. These groups are typically comprised of practitioners, researchers, youth and college students. The groups are designed to exchange ideas, broaden understanding and, ultimately, shape larger practices.
 
 ## Publications
+---
 
 ## Shifting Stereotypes and Storylines: The Political Potential of Youth Media
 _by Barbara Ferman and Natalia Smirnov_
@@ -59,6 +60,7 @@ _Journal of Community Psychology 2013_
 In 2001 the CDC declared youth violence a public health issue. In summer 2008, we embarked on a project designed to explore the issue of violence from the standpoint of youth who are exposed to and affected by violence in their communities. Using photovoice as the primary methodology, the project sought to develop a more nuanced and deeper understanding of these issues, while simultaneously giving youth a voice and further developing their critical thinking skills. Digital images produced by the youth and the subsequent structured conversations focused on representations of violence, causes of violence and ways to address violence. Analyses of the images and conversations, especially in the context of the literatures on youth violence, race and poverty, support the utility of photovoice as a tool for understanding how youth perceive violence and underscore the need to listen to the voices of those affected by violence. Follow this [link](https://liberalarts.temple.edu/sites/liberalarts/files/violence-through-eyes-of-youth.pdf) for a full pdf of the article.
 
 ## Conference Presentations
+---
 
 - **National Youth Leadership Council**. Denver, CO March 14, 2013.
 - **Philadelphia Higher Education Network for Neighborhood Development (PHENND)** Philadelphia, PA. March 1 2013.
