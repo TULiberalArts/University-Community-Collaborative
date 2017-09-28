@@ -6,7 +6,7 @@ keywords: ''
 description: >-
 published: true
 ---
-**_To make an online donation to The Collaborative, please follow this [link](http://giving.temple.edu/givetoUCCP)**_.
+_**To make an online donation to The Collaborative, please follow this [link](http://giving.temple.edu/givetoUCCP)**_.
 
 ## Funders
 ---
