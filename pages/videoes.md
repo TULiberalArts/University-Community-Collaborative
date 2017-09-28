@@ -7,7 +7,7 @@ published: true
 
 ## Videos
 
-- [![Listen Up!](https://img.youtube.com/vi/mR1lpnaqWKM&feature=youtu.be.jpg)](https://www.youtube.com/watch?v=mR1lpnaqWKM&feature=youtu.be)
+- [![Listen Up!](https://www.youtube.com/watch?v=mR1lpnaqWKM&feature=youtu.be)
 - [![Power Over Bullying](https://img.youtube.com/vi/bM-orb7CDcM&feature=youtu.be.jpg)](https://youtu.be/bM-orb7CDcM)
 - [![Youth and Housing Insecurity](https://img.youtube.com/vi/Cp-9wj1wgSg&feature=youtu.be)](https://youtu.be/Cp-9wj1wgSg)
 - [![POPPYN Ep 15: The Express](https://img.youtube.com/vi/qJo7yNF2SYg)](https://youtu.be/qJo7yNF2SYg)
