@@ -7,7 +7,7 @@ description: >-
 published: true
 ---
 ## Building Organizational and Community Capacity
-
+---
 Informed by over 14 years of direct programming with older youth (14-24), we work  with a wide range of organizations and institutions helping them to:
 
 - Engage older youth through project-based learning, civic engagement, and media production approaches
@@ -22,7 +22,7 @@ Informed by over 14 years of direct programming with older youth (14-24), we wor
 We have provided assistance locally, nationally and internationally to organizations including:  school districts, individual middle and high schools, community based and philanthropic organizations, public libraries, public housing authorities, United Way of Southeastern Pennsylvania,  and universities in the US and Australia, among others.  Formats for this work include: Training Institutes; Professional Development Workshops; and Program Planning & Curriculum Design.  All of our work is totally customized for the particular user, thereby insuring that organizational goals, mission and context are fully incorporated into the work.
 
 ## Professional Development
-
+---
 We offer two types of professional development opportunities: workshops and training institutes. Workshops are typically several hours in duration. Training Institutes are more extensive and take place over a longer period of time—often between several weeks or even several months. We are able to create a customized workshop or training institute for your organization around any of the topics below.
 
 ### Topics
@@ -62,7 +62,7 @@ We offer two types of professional development opportunities: workshops and trai
 **Doing Community Based Research**: What is community-based research?  What are the goals, methods, issues and challenges that surface?  Who does the research?  Who owns the research?  To what ends is the research conducted? What are the plusses and minuses of involving students in the process?
 
 ## Training Institutes
-
+---
 Training Institutes focus on leadership development at the individual, organizational and community levels. Specific content and length vary depending on organizational needs. Below are some examples.
 
 ### Youth Leadership Academy
@@ -82,7 +82,7 @@ Using asset mapping, goal and priority setting, resource identification, network
 Collaborative staff assist with developing age appropriate programming, structuring program modules, developing program goals and objectives, developing and sequencing activities within a curriculum to achieve goals, developing assessment measures, and training staff to implement programs.
 
 ## Our Clients
-
+---
 We have helped over 100 organizations with their program, staff development and community engagement work. These include:
 
 **Universities**
