@@ -16,7 +16,6 @@ The Collaborative facilitates discussion groups on timely issues such as youth v
 
 ## Publications
 ---
-
 ## Shifting Stereotypes and Storylines: The Political Potential of Youth Media
 _by Barbara Ferman and Natalia Smirnov_
 
