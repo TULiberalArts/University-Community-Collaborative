@@ -61,18 +61,32 @@ POPPYN airs every Thursday at 4:30pm EST on Philadelphia’s Public Access Chann
 
 For more information, please contact POPPYN Coordinator Nuala at [215-204-3871](tel:2152043871) or [nuala.cabral@temple.edu](mailto:nuala.cabral@temple.edu).
 
+<div class="row">
+   <div class="col m12 l8">
+    <div style="align: right">
+  <h3>POPPYN— An award winning youth produced TV news program focusing on issues that impact youth while highlighting the positive contributions of youth to their communities.</h3>
+  <p>
+    POPPYN (Presenting on Perspective On Philly Youth News) is an award-winning youth news program based in Philadelphia. We cover events and explore topics of interest to youth in Philly.  POPPYN derived from the desire to portray the positive things youth are doing in the city, because local news tends to portray young people in a negative light.  In our program high school students collaborate with college students to produce a 30 minute episode, four times per year.  Youth producers meet on Monday evenings and shoot and edit based on availability. Prior video experience is not necessary.<br/>
+
+POPPYN airs every Thursday at 4:30pm EST on Philadelphia’s Public Access Channel: PhillyCAM (Comcast 66/Verizon 29). Episodes and segments are also [available online](http://www.youtube.com/watch?feature=player_embedded&v=X6-iaAOB2ko).<br/>
+
+For more information, please contact POPPYN Coordinator Nuala at [215-204-3871](tel:2152043871) or [nuala.cabral@temple.edu](mailto:nuala.cabral@temple.edu).
+  </p>
+</div>
 <div class="col m12 l4"><br>
   <div class="course-box">
-   <div style="align: right">
     <b>Follow POPPYN on social media!</b>
     <ul>
     <li><a href="http://twitter.com/whatsPOPPYN" title="Twitter">Twitter</a></li>
     <li><a href="http://facebook.com/whatsPOPPYN" title="Facebook">Facebook</a></li>
     <li><a href="http://youtube.com/user/whatsPOPPYN" title="Youtube">Youtube</a></li>
-    <li><a href="https://www.instagram.com/whatspoppyn/" title="Instagram">Instagram</a></li>
+    <li><a href="hhttps://www.instagram.com/whatspoppyn/" title="Instagram">Instagram</a></li>
     </ul>
     </div>
 </div>
+</div>
+
+
 
 ---
 
