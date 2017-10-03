@@ -60,21 +60,11 @@ POPPYN (Presenting on Perspective On Philly Youth News) is an award-winning yout
 POPPYN airs every Thursday at 4:30pm EST on Philadelphia’s Public Access Channel: PhillyCAM (Comcast 66/Verizon 29). Episodes and segments are also [available online](http://www.youtube.com/watch?feature=player_embedded&v=X6-iaAOB2ko).
 
 For more information, please contact POPPYN Coordinator Nuala at [215-204-3871](tel:2152043871) or [nuala.cabral@temple.edu](mailto:nuala.cabral@temple.edu).
-
-<div class="row">
-   <div class="col m12 l8">
-    <div style="align: right">
-  <h3>POPPYN— An award winning youth produced TV news program focusing on issues that impact youth while highlighting the positive contributions of youth to their communities.</h3>
-  <p>
-    POPPYN (Presenting on Perspective On Philly Youth News) is an award-winning youth news program based in Philadelphia. We cover events and explore topics of interest to youth in Philly.  POPPYN derived from the desire to portray the positive things youth are doing in the city, because local news tends to portray young people in a negative light.  In our program high school students collaborate with college students to produce a 30 minute episode, four times per year.  Youth producers meet on Monday evenings and shoot and edit based on availability. Prior video experience is not necessary.<br/>
-
-POPPYN airs every Thursday at 4:30pm EST on Philadelphia’s Public Access Channel: PhillyCAM (Comcast 66/Verizon 29). Episodes and segments are also [available online](http://www.youtube.com/watch?feature=player_embedded&v=X6-iaAOB2ko).<br/>
-
-For more information, please contact POPPYN Coordinator Nuala at [215-204-3871](tel:2152043871) or [nuala.cabral@temple.edu](mailto:nuala.cabral@temple.edu).
   </p>
 </div>
 <div class="col m12 l4"><br>
   <div class="course-box">
+   <div style="align: right">
     <b>Follow POPPYN on social media!</b>
     <ul>
     <li><a href="http://twitter.com/whatsPOPPYN" title="Twitter">Twitter</a></li>
@@ -86,10 +76,6 @@ For more information, please contact POPPYN Coordinator Nuala at [215-204-3871](
 </div>
 </div>
 
-
-
----
-
 ### Leaders Corps
 
 **Leaders Corps** provides paid leadership positions within The Collaborative for former program participants to facilitate all youth leadership programs, assist in training and technical assistance activities and participate in other aspects of the organization.
@@ -97,7 +83,7 @@ For more information, please contact POPPYN Coordinator Nuala at [215-204-3871](
 > “Working with The Collaborative I’ve learned that empowering youth is the most meaningful action I can take.  To do so successfully, I have to be prepared, organized, and a responsible leader.”  – Leader Corps Member
 
 All programming is implemented by our Leaders Corps, a dynamic team of former program participants who are now college students serving as de-facto role models for younger cohorts. Leaders Corps members receive ongoing support and professional development that prepares them to facilitate Collaborative programs, support training and technical assistance at other organizations, and conduct workshops in the community and at professional conferences.  In addition to developing participants’ skills, leadership, and confidence, this practice has shaped career and educational aspirations. Many of our former Leaders Corps members are teaching in Philadelphia and other cities and working in the nonprofit and public sectors. Additionally, many have pursued policy-oriented graduate and law school programs. These alums have taken their leadership on the road, helping to inspire a new generation of social justice leaders. Their example also serves as a powerful motivator for high school students who see in it the civic pathway to college and the college pathway to leadership.
----
+
 
 ### Leadership Development Institute
 
@@ -106,7 +92,7 @@ All programming is implemented by our Leaders Corps, a dynamic team of former pr
 > “I am using some of the strategies I learned in the LDI at my current college. There are very few minorities and I want to start a student organization to address some of our concerns. I want to make positive social changes in every community I belong to.”
 
 Participants who have been through VOICES, POWER or YAS and who demonstrate a readiness to assume a leadership role within the Collaborative or in other organizations can apply to the Leadership Development Institute.  Grounded in the Collaborative’s philosophy of positive youth leadership development and social justice, the Institute provides intensive training in group facilitation, project development and management, curriculum design and implementation, community outreach and networking, media as a tool for positive social change, and working with diverse populations.  Successful graduates can apply for a paid position on the Leaders Corps.  The LDI meets for 2 weeks, 25 hours per week in the summer.  Enrollment is typically between 8-12 participants.
----
+
 
 ### Youth Action Scholars
 
@@ -117,7 +103,7 @@ Youth Action Scholars provides the next step for youth who have completed VOICES
 For youth who have gone through VOICES or POWER, this year long program equips students with the skills and ability to become Peer Educators.  Through research and networking, Youth Action Scholars educate themselves on a topic and then develop and conduct workshops to raise awareness amongst their peers.  Through these various activities, Youth Action Scholars hope to build communities of interest and engagement. YAS meets one day per week for 3 hours.
 
 > “Ever since I joined the Youth Action Scholars, I have gained skills to better myself as a leader.  In my school, I have begun to help people understand things that I have learned…The Leaders Corps and staff have supported me wonderfully.  In don’t  think anything can be done to better support me.”  -YAS participant, 2010
----
+
 
 ### POWER Internship
 
@@ -134,7 +120,7 @@ Follow POWER Internship on social media!
 - [Twitter](http://twitter.com/uccpower)
 - [Facebook](http://facebook.com/)
 - [Youtube](http://youtube.com/user/theUCCP)
----
+
 
 ### Temple Youth VOICES
 
