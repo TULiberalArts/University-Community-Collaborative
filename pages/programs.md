@@ -61,12 +61,26 @@ POPPYN airs every Thursday at 4:30pm EST on Philadelphia’s Public Access Chann
 
 For more information, please contact POPPYN Coordinator Nuala at [215-204-3871](tel:2152043871) or [nuala.cabral@temple.edu](mailto:nuala.cabral@temple.edu).
 
+<div class="col m12 l4"><br>
+  <div class="course-box">
+    <b>Follow POPPYN on social media!:</b>
+    <ul>
+    <li><a href="http://twitter.com/whatsPOPPYN" title="Twitter">Twitter</a></li>
+    <li><a href="http://facebook.com/whatsPOPPYN" title="Facebook">Facebook</a></li>
+    <li><a href="http://youtube.com/user/whatsPOPPYN" title="Youtube">Youtube</a></li>
+    <li><a href="https://www.instagram.com/whatspoppyn/" title="Instagram">Instagram</a></li>
+    </ul>
+    </div>
+</div>
+</div>
+
 Follow POPPYN on social media! 
 
 - [Twitter](http://twitter.com/whatsPOPPYN)
-- [Facebook]( http://facebook.com/whatsPOPPYN)
+- [Facebook](http://facebook.com/whatsPOPPYN)
 - [Youtube](http://youtube.com/user/whatsPOPPYN)
 - [Instagram](https://www.instagram.com/whatspoppyn/)
+---
 
 ### Leaders Corps
 
@@ -75,6 +89,7 @@ Follow POPPYN on social media!
 > “Working with The Collaborative I’ve learned that empowering youth is the most meaningful action I can take.  To do so successfully, I have to be prepared, organized, and a responsible leader.”  – Leader Corps Member
 
 All programming is implemented by our Leaders Corps, a dynamic team of former program participants who are now college students serving as de-facto role models for younger cohorts. Leaders Corps members receive ongoing support and professional development that prepares them to facilitate Collaborative programs, support training and technical assistance at other organizations, and conduct workshops in the community and at professional conferences.  In addition to developing participants’ skills, leadership, and confidence, this practice has shaped career and educational aspirations. Many of our former Leaders Corps members are teaching in Philadelphia and other cities and working in the nonprofit and public sectors. Additionally, many have pursued policy-oriented graduate and law school programs. These alums have taken their leadership on the road, helping to inspire a new generation of social justice leaders. Their example also serves as a powerful motivator for high school students who see in it the civic pathway to college and the college pathway to leadership.
+---
 
 ### Leadership Development Institute
 
@@ -83,6 +98,7 @@ All programming is implemented by our Leaders Corps, a dynamic team of former pr
 > “I am using some of the strategies I learned in the LDI at my current college. There are very few minorities and I want to start a student organization to address some of our concerns. I want to make positive social changes in every community I belong to.”
 
 Participants who have been through VOICES, POWER or YAS and who demonstrate a readiness to assume a leadership role within the Collaborative or in other organizations can apply to the Leadership Development Institute.  Grounded in the Collaborative’s philosophy of positive youth leadership development and social justice, the Institute provides intensive training in group facilitation, project development and management, curriculum design and implementation, community outreach and networking, media as a tool for positive social change, and working with diverse populations.  Successful graduates can apply for a paid position on the Leaders Corps.  The LDI meets for 2 weeks, 25 hours per week in the summer.  Enrollment is typically between 8-12 participants.
+---
 
 ### Youth Action Scholars
 
@@ -93,6 +109,7 @@ Youth Action Scholars provides the next step for youth who have completed VOICES
 For youth who have gone through VOICES or POWER, this year long program equips students with the skills and ability to become Peer Educators.  Through research and networking, Youth Action Scholars educate themselves on a topic and then develop and conduct workshops to raise awareness amongst their peers.  Through these various activities, Youth Action Scholars hope to build communities of interest and engagement. YAS meets one day per week for 3 hours.
 
 > “Ever since I joined the Youth Action Scholars, I have gained skills to better myself as a leader.  In my school, I have begun to help people understand things that I have learned…The Leaders Corps and staff have supported me wonderfully.  In don’t  think anything can be done to better support me.”  -YAS participant, 2010
+---
 
 ### POWER Internship
 
@@ -109,6 +126,7 @@ Follow POWER Internship on social media!
 - [Twitter](http://twitter.com/uccpower)
 - [Facebook](http://facebook.com/)
 - [Youtube](http://youtube.com/user/theUCCP)
+---
 
 ### Temple Youth VOICES
 
