@@ -47,6 +47,12 @@ The Collaborative Continuum, a series of afterschool and summer programs, credit
 ## Programs
 ---
 
+### POPPYN
+
+> “I learned how to operate the camera, break out of my shell and be comfortable with people.” - Tiffani
+
+> “Working with POPPYN opened my eyes to what was/is going on around me.” – Briana
+
 <div class="col m12 l4"><br>
   <div class="course-box">
    <div style="align: right">
@@ -60,12 +66,6 @@ The Collaborative Continuum, a series of afterschool and summer programs, credit
     </div>
 </div>
 </div>
-
-### POPPYN
-
-> “I learned how to operate the camera, break out of my shell and be comfortable with people.” - Tiffani
-
-> “Working with POPPYN opened my eyes to what was/is going on around me.” – Briana
 
 POPPYN — An award winning youth produced TV news program focusing on issues that impact youth while highlighting the positive contributions of youth to their communities.
 
