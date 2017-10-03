@@ -63,7 +63,7 @@ For more information, please contact POPPYN Coordinator Nuala at [215-204-3871](
 
 <div class="col m12 l4"><br>
   <div class="course-box">
-   <div style="text-align: right">
+   <div style="align: right">
     <b>Follow POPPYN on social media!</b>
     <ul>
     <li><a href="http://twitter.com/whatsPOPPYN" title="Twitter">Twitter</a></li>
@@ -73,6 +73,7 @@ For more information, please contact POPPYN Coordinator Nuala at [215-204-3871](
     </ul>
     </div>
 </div>
+
 ---
 
 ### Leaders Corps
