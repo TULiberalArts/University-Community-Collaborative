@@ -45,7 +45,7 @@ sidebar-content: |
     <li><a href="http://twitter.com/whatsPOPPYN" title="Twitter">Twitter</a></li>
     <li><a href="http://facebook.com/whatsPOPPYN" title="Facebook">Facebook</a></li>
     <li><a href="http://youtube.com/user/whatsPOPPYN" title="Youtube">Youtube</a></li>
-    <li><a href="hhttps://www.instagram.com/whatspoppyn/" title="Instagram">Instagram</a></li>
+    <li><a href="https://www.instagram.com/whatspoppyn/" title="Instagram">Instagram</a></li>
     </ul>
     </div>
 </div>
