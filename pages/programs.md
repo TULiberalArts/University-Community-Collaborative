@@ -36,21 +36,12 @@ sidebar-content: |
    [(215) 204-2007](tel:2152042007)      
    
 ---
-
-<div class="col m12 l4"><br>
-  <div class="course-box">
-   <div style="align: right">
-    <b>Follow POPPYN on social media!</b>
-    <ul>
-    <li><a href="http://twitter.com/whatsPOPPYN" title="Twitter">Twitter</a></li>
-    <li><a href="http://facebook.com/whatsPOPPYN" title="Facebook">Facebook</a></li>
-    <li><a href="http://youtube.com/user/whatsPOPPYN" title="Youtube">Youtube</a></li>
-    <li><a href="https://www.instagram.com/whatspoppyn/" title="Instagram">Instagram</a></li>
-    </ul>
-    </div>
-</div>
-</div>
-
+   
+   **Follow POPPYN on social media!**  
+   [Twitter](http://twitter.com/whatsPOPPYN)   
+   [Facebook](http://facebook.com/whatsPOPPYN)    
+   [Youtube](http://youtube.com/user/whatsPOPPYN)      
+   [Instagram](https://www.instagram.com/whatspoppyn/)      
 ---
 
 ## Building Young Leaders
