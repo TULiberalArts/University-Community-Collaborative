@@ -28,11 +28,11 @@ address:
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
 social:
-  # Facebook - 
+  # Facebook - https://www.facebook.com/The-University-Community-Collaborative-152289177322/
   # if your page does not have a custom URL, create one!
-  facebook: 
-  # Twitter -
-  twitter: 
+  facebook: TempleUCC
+  # Twitter - http://www.twitter.com/TempleUCC
+  twitter: The Collaborative
   # Instagram - 
   instagram: 
   # Snapchat - USERNAME
