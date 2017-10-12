@@ -7,7 +7,7 @@ published: true
 
 ![Donate Online]({{site.baseurl}}/media/give-now-1.png)
 
-_**To make an online donation to The Collaborative, please follow this [link](http://giving.temple.edu/givetoUCCP)**_.
+_**To make an online donation to The Collaborative, please go to our [Giving Site](http://giving.temple.edu/givetoUCCP)**_.
 
 ## Funders
 ---
