@@ -2,11 +2,10 @@
 title: Donate
 permalink: /donate/
 layout: page
-keywords: ''
-description: >-
 published: true
 ---
-_**To make an online donation to The Collaborative, please follow this [link](http://giving.temple.edu/givetoUCCP)**_.
+
+![Donate Online]({{site.baseurl}}/media/give-now-1.png)[_**To make an online donation to The Collaborative, please follow this [link](http://giving.temple.edu/givetoUCCP)**_.
 
 ## Funders
 ---
