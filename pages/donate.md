@@ -5,9 +5,9 @@ layout: page
 published: true
 ---
 
-![Donate Online]({{site.baseurl}}/media/give-now-1.png)(https://advancement-sec.temple.edu/s/705/giving/16/interior_1col.aspx?sid=705&gid=1&pgid=3813&cid=5100&bledit=1&dids=268&noother=1&appealcode=SOL_CUSTOMURL) 
+![Donate Online]({{site.baseurl}}/media/give-now-1.png)[https://advancement-sec.temple.edu/s/705/giving/16/interior_1col.aspx?sid=705&gid=1&pgid=3813&cid=5100&bledit=1&dids=268&noother=1&appealcode=SOL_CUSTOMURL]
 
-[_**To make an online donation to The Collaborative, please follow this [link](http://giving.temple.edu/givetoUCCP)**_.
+_**To make an online donation to The Collaborative, please follow this [link](http://giving.temple.edu/givetoUCCP)**_.
 
 ## Funders
 ---
