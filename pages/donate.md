@@ -11,7 +11,7 @@ _**To make an online donation to The Collaborative, please go to our [Giving Sit
 
 ## Funders
 ---
-The Collaborative has received support from the following:
+**The Collaborative has received support from the following:**
 
 ### Foundations
 
