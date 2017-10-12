@@ -14,7 +14,7 @@ The Collaborative facilitates discussion groups on timely issues such as youth v
 
 ## Publications
 ---
-## Shifting Stereotypes and Storylines: The Political Potential of Youth Media
+### Shifting Stereotypes and Storylines: The Political Potential of Youth Media
 _by Barbara Ferman and Natalia Smirnov_
 
 “Shifting Stereotypes and Storylines: The Political Potential of Youth Media.” (2016) by Barbara Ferman and Natalia Smirnov. In Contemporary Youth Activism: Advancing Social Justice in the United States, (Praeger) eds. Jerusha Conner and Sonia Rosen. [Full pdf of the article](https://liberalarts.temple.edu/sites/liberalarts/files/Ferman%20%26%20Smirnov%202015%20%E2%80%93%20Shifting%20Stereotypes%20and%20Storylines.pdf) . 
