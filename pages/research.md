@@ -17,14 +17,13 @@ The Collaborative facilitates discussion groups on timely issues such as youth v
 ### Shifting Stereotypes and Storylines: The Political Potential of Youth Media
 _by Barbara Ferman and Natalia Smirnov_
 
-“Shifting Stereotypes and Storylines: The Political Potential of Youth Media.” (2016) by Barbara Ferman and Natalia Smirnov. In Contemporary Youth Activism: Advancing Social Justice in the United States, (Praeger) eds. Jerusha Conner and Sonia Rosen. [Full pdf of the article](https://liberalarts.temple.edu/sites/liberalarts/files/Ferman%20%26%20Smirnov%202015%20%E2%80%93%20Shifting%20Stereotypes%20and%20Storylines.pdf) . 
+“Shifting Stereotypes and Storylines: The Political Potential of Youth Media.” (2016) by Barbara Ferman and Natalia Smirnov. In Contemporary Youth Activism: Advancing Social Justice in the United States, (Praeger) eds. Jerusha Conner and Sonia Rosen. [Full pdf of the article](https://liberalarts.temple.edu/sites/liberalarts/files/Ferman%20%26%20Smirnov%202015%20%E2%80%93%20Shifting%20Stereotypes%20and%20Storylines.pdf). 
 
+### Violence Through the Eyes of Youth: A Photovoice Exploration
+_by Jill Chonody, Barbara Ferman, Jill Amitrani-Welsh, and Travis Martin_,
+_Journal of Community Psychology 2013_
 
-### The Challenges of Agenda Conflict in Higher-Education-Community Research Partnerships
-_by Barbara Ferman and T.L. Hill_,
-_Journal of Urban Affairs, 2004_
-
-Responding to both the proliferation of higher-education-community partnerships and the paucity of studies that report the perspective of the community partners in such relationships, we interviewed community leaders to learn about their motivations for and experiences of participating in higher-education-community research partnerships. The article reports community leaders’ assessments of the benefits and challenges of engaging in such partnerships, shares their advice for both community and university-based actors considering involvement in such partnerships, and explores the larger institutional and structural issues that bedevil higher-education-community partnerships. [Full pdf of the article](https://liberalarts.temple.edu/sites/liberalarts/files/jua_article.pdf). 
+In 2001 the CDC declared youth violence a public health issue. In summer 2008, we embarked on a project designed to explore the issue of violence from the standpoint of youth who are exposed to and affected by violence in their communities. Using photovoice as the primary methodology, the project sought to develop a more nuanced and deeper understanding of these issues, while simultaneously giving youth a voice and further developing their critical thinking skills. Digital images produced by the youth and the subsequent structured conversations focused on representations of violence, causes of violence and ways to address violence. Analyses of the images and conversations, especially in the context of the literatures on youth violence, race and poverty, support the utility of photovoice as a tool for understanding how youth perceive violence and underscore the need to listen to the voices of those affected by violence. [Full pdf of the article](https://liberalarts.temple.edu/sites/liberalarts/files/violence-through-eyes-of-youth.pdf).
 
 ### Educating for Democracy: Reflections From a Work in Progress
 _by Barbara Ferman_,
@@ -32,11 +31,11 @@ _Journal of Political Science Education 2012_
 
 Why are Americans, and young Americans in particular, so turned off to government and politics? And, what can be done to arrest these trends? In this article, I suggest that three primary, and mutually reinforcing, trends, which can be summed up as the ‘‘relevance factor,’’ the ‘‘negativity factor,’’ and the ‘‘triumphant market factor,’’ have conspired to preempt any interest in government and politics on the part of young people. Consequently, these young people do not develop the skills and knowledge that democratic participation requires nor do they see a need to do so. As educators, how- ever, we have a unique opportunity to address these barriers and, thus, to help repair a key aspect of our democratic fabric—the willingness and ability of citizens to partici- pate in the well-being of the society and its political institutions and processes. This article presents a case study of such an effort at Temple University, a large public institution with a diverse student body located in the heart of Philadelphia. [Full pdf of the article](https://liberalarts.temple.edu/sites/liberalarts/files/educating_for_democracy.pdf). 
 
-### The Role of Institutions in Community Building: The Case of West Mt. Airy, Philadelphia
-_by Barbara Ferman and Patrick Kaylor_,
-_Nonprofits in Urban America 2000_
+### Pathways to College and to Social Justice Leadership
+_by Barbara Ferman_,
+_Diversity & Democracy 2012_
 
-Currently, we are told that rapid advances in technology have rendered place almost irrelevant in many circumstances. Complementing this is the research on social networks that has demonstrated the rich existence of spatial communities. Given these trends, the question facing us is, can we have geographically based communities? [Full pdf of the article](https://liberalarts.temple.edu/sites/liberalarts/files/roles_of_institutions.pdf). 
+Involving youth in high-quality, longterm civic leadership activities can yield many positive academic and social outcomes. An overall approach to working with youth rather than a discrete program, the UCCP’s continuum of after- school programming, credit-bearing internships, peer education activities, media production, and paid employment opportunities is designed to keep youth involved at different levels and capacities over an extended period of time, including the critical transition from high school to college or employment. This continuum provides participants with unique opportunities to address issues that are relevant to their lives while forming connections to other youth and to college student mentors. [Full pdf of the article](https://liberalarts.temple.edu/sites/liberalarts/files/diversity_and_democracy.pdf).
 
 ### Leveraging Social Capital: The University as Educator and Broker
 _by Barbara Ferman_,
@@ -44,17 +43,18 @@ _Social Capital in the City 2006_
 
 Universities can significantly enrich the communities in which they are located. Through their educational role, they contribute to the overall wellbeing of the community by helping shape an enlightened citizenry and productive labor force. Through the musical, theatrical, and artistic activities they produce and sponsor, universities enhance the cultural life of the surrounding community, attracting residents and businesses in the process. Yet despite the myriad contributions of institutions of higher learning, their potential for community development has been and often still is overlooked by policy makers, even those within universities. [Full pdf of the article](https://liberalarts.temple.edu/sites/liberalarts/files/social_capital_in_the_city.pdf).
 
-### Pathways to College and to Social Justice Leadership
-_by Barbara Ferman_,
-_Diversity & Democracy 2012_
+### The Challenges of Agenda Conflict in Higher-Education-Community Research Partnerships
+_by Barbara Ferman and T.L. Hill_,
+_Journal of Urban Affairs, 2004_
 
-Involving youth in high-quality, longterm civic leadership activities can yield many positive academic and social outcomes. An overall approach to working with youth rather than a discrete program, the UCCP’s continuum of after- school programming, credit-bearing internships, peer education activities, media production, and paid employment opportunities is designed to keep youth involved at different levels and capacities over an extended period of time, including the critical transition from high school to college or employment. This continuum provides participants with unique opportunities to address issues that are relevant to their lives while forming connections to other youth and to college student mentors. [Full pdf of the article](https://liberalarts.temple.edu/sites/liberalarts/files/diversity_and_democracy.pdf).
+Responding to both the proliferation of higher-education-community partnerships and the paucity of studies that report the perspective of the community partners in such relationships, we interviewed community leaders to learn about their motivations for and experiences of participating in higher-education-community research partnerships. The article reports community leaders’ assessments of the benefits and challenges of engaging in such partnerships, shares their advice for both community and university-based actors considering involvement in such partnerships, and explores the larger institutional and structural issues that bedevil higher-education-community partnerships. [Full pdf of the article](https://liberalarts.temple.edu/sites/liberalarts/files/jua_article.pdf). 
 
-### Violence Through the Eyes of Youth: A Photovoice Exploration
-_by Jill Chonody, Barbara Ferman, Jill Amitrani-Welsh, and Travis Martin_,
-_Journal of Community Psychology 2013_
 
-In 2001 the CDC declared youth violence a public health issue. In summer 2008, we embarked on a project designed to explore the issue of violence from the standpoint of youth who are exposed to and affected by violence in their communities. Using photovoice as the primary methodology, the project sought to develop a more nuanced and deeper understanding of these issues, while simultaneously giving youth a voice and further developing their critical thinking skills. Digital images produced by the youth and the subsequent structured conversations focused on representations of violence, causes of violence and ways to address violence. Analyses of the images and conversations, especially in the context of the literatures on youth violence, race and poverty, support the utility of photovoice as a tool for understanding how youth perceive violence and underscore the need to listen to the voices of those affected by violence. [Full pdf of the article](https://liberalarts.temple.edu/sites/liberalarts/files/violence-through-eyes-of-youth.pdf).
+### The Role of Institutions in Community Building: The Case of West Mt. Airy, Philadelphia
+_by Barbara Ferman and Patrick Kaylor_,
+_Nonprofits in Urban America 2000_
+
+Currently, we are told that rapid advances in technology have rendered place almost irrelevant in many circumstances. Complementing this is the research on social networks that has demonstrated the rich existence of spatial communities. Given these trends, the question facing us is, can we have geographically based communities? [Full pdf of the article](https://liberalarts.temple.edu/sites/liberalarts/files/roles_of_institutions.pdf). 
 
 ## Conference Presentations
 ---
