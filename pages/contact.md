@@ -6,6 +6,16 @@ keywords: ''
 description: >-
 published: true
 ---
+Temple University<br>
+Gladfelter Hall, 4th Floor<br> 
+1115 West Berks Mall<br> 
+Philadelphia, PA 19122<br> 
+
+Phone: [215-204-6276](tel:2152046276)<br> 
+Fax: [215-204-3770](tel:215-204-3770)<br> 
+
+---
+
 **Executive Director:**  
    Barbara Ferman, PhD    
    [(215) 204-6276](tel:2152046276)  
