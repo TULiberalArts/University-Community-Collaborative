@@ -19,7 +19,7 @@ In this episode, POPPYN covers the ways that young people get and stay fit aroun
 
 ## Awards
 
-The following list of awards were accomplished by our amazing students through various programs or filmss throughtout the Philadelphia areas. Most of theses are for award winning films! 
+The following list of awards were accomplished by our amazing students through various programs or films throughtout the Philadelphia areas. Most of theses are for award winning films! 
 
 - PhillyCAM 2nd Annual Impact Award, 2012 
 - Best Documentary Award, Mashed Media Festival in April, 2015
