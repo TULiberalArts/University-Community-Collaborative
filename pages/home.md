@@ -43,7 +43,7 @@ Our activities are concentrated in three areas:
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html 
+      <div class="col m12 l4">{% include card2-action/card2-image.html 
         title="Research" 
         content="We share our knowledge of youth leadership and issues impacting youth through discussion groups, conference presentations, and publications." 
         image="" 
