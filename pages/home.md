@@ -14,7 +14,7 @@ published: true
 
 The Collaborative prepares and supports youth and young adults to become confident, effective leaders and creates cultures that value and integrate the contributions of youth, thereby building stronger communities.
 
-![New POPPYN Promotional Video]({{site.baseurl}}/Resized POPPYN page 3.jpg){:.img-right}
+![New POPPYN Promotional Video]({{site.baseurl}}/Resized POPPYNpage3.jpg){:.img-right}
 
 ## Vision 
 
