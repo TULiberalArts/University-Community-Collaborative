@@ -28,10 +28,10 @@ Our activities are concentrated in three areas:
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title="Research" 
-    content="We share our knowledge of youth leadership and issues impacting youth through discussion groups, conference presentations, and publications." 
+    title="Building Young Leaders" 
+    content="Engaging approximately 130 youth per year (ages 14-24), our programming is distinguished by its emphasis on long term development, its incorporation of youth leaders into the Collaborative’s organizational structure, its social justice/community building orientation and its location on a university campus." 
     image="" 
-    button-link="research/" 
+    button-link="programs" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
@@ -39,15 +39,15 @@ Our activities are concentrated in three areas:
       title="Community Impact" 
       content="We help organizations & communities better integrate the contributions of youth. We have trained over 100 nonprofit, educational, and public organizations in leadership development, community building, media literacy, program planning, and curriculum development." 
       image="" 
-      button-link="donate/"
+      button-link="technical-assistance"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-action.html 
-        title="Trainings & Workshops" 
-        content="We provide capacity building for other organizations through training institutes, professional development workshops, program planning, curriculum design, and more." 
+      <div class="col m12 l4">{% include cards/card2-image.html 
+        title="Research" 
+        content="We share our knowledge of youth leadership and issues impacting youth through discussion groups, conference presentations, and publications." 
         image="" 
-        button-link="technical-assistance/" 
+        button-link="research/" 
         button-text="Learn More" %}
       </div>
 </div>
