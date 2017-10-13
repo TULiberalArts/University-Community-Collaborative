@@ -15,48 +15,48 @@ _**To make an online donation to The Collaborative, please go to our [Giving Sit
 
 ### Foundations
 
-Best Buy Children’s Foundation
-Christian R. & Mary F. Lindback Foundation
-Claneil Foundation
-Congregation Rodeph Shalom
-Congressional Black Caucus Foundation
-Connelly Foundation
-Dolfinger McMahon Foundation
-Grace S. & W. Linton Nelson Foundation
-Kinder Morgan Foundation
-Maximus Foundation
-McCormick Foundation
-MetLife Foundation (through What Kids Can Do)
-Patricia Kind Foundation
-Pew Charitable Trusts
-Philadelphia Foundation
-Rodeph Shalom
-Spruce Foundation
-Starbucks Foundation
-Union Benevolent Association
-W. Clement and Jessie V. Stone Foundation
-William Penn Foundation
+- Best Buy Children’s Foundation
+- Christian R. & Mary F. Lindback Foundation
+- Claneil Foundation
+- Congregation Rodeph Shalom
+- Congressional Black Caucus Foundation
+- Connelly Foundation
+- Dolfinger McMahon Foundation
+- Grace S. & W. Linton Nelson Foundation
+- Kinder Morgan Foundation
+- Maximus Foundation
+- McCormick Foundation
+- MetLife Foundation (through What Kids Can Do)
+- Patricia Kind Foundation
+- Pew Charitable Trusts
+- Philadelphia Foundation
+- Rodeph Shalom
+- Spruce Foundation
+- Starbucks Foundation
+- Union Benevolent Association
+- W. Clement and Jessie V. Stone Foundation
+- William Penn Foundation
 
 ### Government
 
-Corporation for National and Community Service
-Greater Philadelphia Urban Affairs Coalition
-Mayor’s office of Education
-National Hispanic Housing Council
-Pennsylvania Department of Community Economic Development
-Philadelphia Department of Commerce
-Philadelphia Department of Human Services
-Philadelphia Health Management Corporation
-Philadelphia Youth Network
-United Way of Southeastern PA
+- Corporation for National and Community Service
+- Greater Philadelphia Urban Affairs Coalition
+- Mayor’s office of Education
+- National Hispanic Housing Council
+- Pennsylvania Department of Community Economic Development
+- Philadelphia Department of Commerce
+- Philadelphia Department of Human Services
+- Philadelphia Health Management Corporation
+- Philadelphia Youth Network
+- United Way of Southeastern PA
 
 ## Collaborations
 ---
-The Collaborative works with many organizations locally and nationally to promote better opportunities for young people.  We are proud to be part of the following collective endeavors.
+The Collaborative works with many organizations locally and nationally to promote better opportunities for young people. We are proud to be part of the following collective endeavors.
 
 ### Allegheny West Consortium (co-founder)
 
-We are a founding member of the Allegheny West Consortium, an intentional effort to share resources and practices across several educational institutions in the Allegheny West part of North Philadelphia.  Consortium members include: Bayard Taylor Middle School, Dr. Ethel Allen School, Logan Hope School, Penn Charter School, St. James School, The Schools Collective, University Community Collaborative.
+We are a founding member of the Allegheny West Consortium, an intentional effort to share resources and practices across several educational institutions in the Allegheny West part of North Philadelphia. Consortium members include: Bayard Taylor Middle School, Dr. Ethel Allen School, Logan Hope School, Penn Charter School, St. James School, The Schools Collective, University Community Collaborative.
 
 ### [Campaign for Non Violent Schools (member)](http://www.campaignfornonviolentschools.org/)
 
