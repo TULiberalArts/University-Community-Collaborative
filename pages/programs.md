@@ -70,6 +70,8 @@ Temple Youth VOICES seeks to build the individual and collective power of youth 
 
 > _“This was very beneficial for my son, I think you created an environment of real team work and working as a group… No cool kids verses nerds or in-crowds” – Parent_
 
+![TempleYouth Voices.]({{site.baseurl}}/media/Temple Youth Voices.jpg){:.img-right}
+
 As the main entry to our Continuum, VOICES seeks to build the individual and collective power of youth to make positive change in their communities.  Our program design achieves this through project based learning that is tied to community issues of importance to the youth; that places a heavy emphasis on teamwork and cooperation; that reaches out to community organizations as partners;  and that includes technological and creative arts components. Through this process, youth develop the cognitive, social and civic skills and knowledge necessary to be effective change agents.   Participants meet two afternoons per week from 4 p.m. to 6:30 p.m. on Temple’s campus and one Saturday per month for special activities. Summer programming is 4 days per week, 5 hours per day over six weeks. Participants are typically between 14 and 18 years of age. For more information, please contact Johannah Bennett.
 
 ---
@@ -131,8 +133,3 @@ All programming is implemented by our Leaders Corps, a dynamic team of former pr
 > _“I am using some of the strategies I learned in the LDI at my current college. There are very few minorities and I want to start a student organization to address some of our concerns. I want to make positive social changes in every community I belong to.”_
 
 Participants who have been through VOICES, POWER or YAS and who demonstrate a readiness to assume a leadership role within the Collaborative or in other organizations can apply to the Leadership Development Institute.  Grounded in the Collaborative’s philosophy of positive youth leadership development and social justice, the Institute provides intensive training in group facilitation, project development and management, curriculum design and implementation, community outreach and networking, media as a tool for positive social change, and working with diverse populations.  Successful graduates can apply for a paid position on the Leaders Corps.  The LDI meets for 2 weeks, 25 hours per week in the summer.  Enrollment is typically between 8-12 participants.
-
-
-
-
-
