@@ -4,8 +4,7 @@ permalink: /programs/
 layout: page
 published: true
 sidebar: true
-sidebar-content: |
- ![Temple POPPYN]({{site.baseurl}}/media/Resized POPPYN page 3.jpg){:.img-right}  
+sidebar-content: |  
   **Follow POPPYN on social media!**         
   [Twitter](http://twitter.com/whatsPOPPYN)   
   [Facebook](http://facebook.com/whatsPOPPYN)    
