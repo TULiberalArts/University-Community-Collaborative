@@ -5,13 +5,6 @@ layout: page
 published: true
 sidebar: true
 sidebar-content: |
-  **POWER Coordinator, University Community Collaborative:**  
-  Adesh Dasani   
-  433 Gladfelter Hall    
-  [(215) 204-2007](tel:2152042007)      
-
-  ___ 
-
   **Follow POPPYN on social media!**  
   [Twitter](http://twitter.com/whatsPOPPYN)   
   [Facebook](http://facebook.com/whatsPOPPYN)    
