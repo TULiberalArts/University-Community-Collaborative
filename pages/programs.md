@@ -2,8 +2,6 @@
 title: Programs
 permalink: /programs/
 layout: page
-keywords: ''
-description: >- 
 published: true
 sidebar: true
 sidebar-content: |
@@ -55,12 +53,8 @@ sidebar-content: |
    **Follow Temple Youth VOICES on social media!**  
    [Twitter](http://twitter.com/speakyourVOICES)   
    [Facebook](http://facebook.com/ty.voices)    
-   [Youtube](http://youtube.com/user/theUCCP)            
+   [Youtube](http://youtube.com/user/theUCCP)
 ---
-
-## Building Young Leaders
-
-Engaging approximately 130 youth per year (ages 14-24), our programming is distinguished by its emphasis on long term development, its incorporation of youth leaders into the Collaborative’s organizational structure, its social justice/community building orientation and its location on a university campus.  This combination has created a large cadre of high school and college students who have followed the civic pathway to college and the college pathway to civic leadership.
 
 ## The Collaborative Continum
 
@@ -136,4 +130,4 @@ Temple Youth VOICES seeks to build the individual and collective power of youth 
 
 > _“This was very beneficial for my son, I think you created an environment of real team work and working as a group… No cool kids verses nerds or in-crowds” – Parent_
 
-As the main entry to our Continuum, VOICES seeks to build the individual and collective power of youth to make positive change in their communities.  Our program design achieves this through project based learning that is tied to community issues of importance to the youth; that places a heavy emphasis on teamwork and cooperation; that reaches out to community organizations as partners;  and that includes technological and creative arts components. Through this process, youth develop the cognitive, social and civic skills and knowledge necessary to be effective change agents.   Participants meet two afternoons per week from 4 p.m. to 6:30 p.m. on Temple’s campus and one Saturday per month for special activities. Summer programming is 4 days per week, 5 hours per day over six weeks. Participants are typically between 14 and 18 years of age. For more information, please contact Johannah Bennett. 
+As the main entry to our Continuum, VOICES seeks to build the individual and collective power of youth to make positive change in their communities.  Our program design achieves this through project based learning that is tied to community issues of importance to the youth; that places a heavy emphasis on teamwork and cooperation; that reaches out to community organizations as partners;  and that includes technological and creative arts components. Through this process, youth develop the cognitive, social and civic skills and knowledge necessary to be effective change agents.   Participants meet two afternoons per week from 4 p.m. to 6:30 p.m. on Temple’s campus and one Saturday per month for special activities. Summer programming is 4 days per week, 5 hours per day over six weeks. Participants are typically between 14 and 18 years of age. For more information, please contact Johannah Bennett.
