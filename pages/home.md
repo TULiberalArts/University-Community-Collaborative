@@ -14,13 +14,11 @@ published: true
 
 The Collaborative prepares and supports youth and young adults to become confident, effective leaders and creates cultures that value and integrate the contributions of youth, thereby building stronger communities.
 
-![New POPPYN Promotional Video]({{site.baseurl}}/media/Resized POPPYN page 3.jpg){:.img-left}
-
 ## Vision 
 
 Our long term vision is to shift the approach to working with older youth from one that focuses on short term interventions to one that embraces a long term view, providing youth with opportunities to grow into leadership positions and supporting them once they are there.  Our training of young leaders, our continuum model, our capacity building assistance to other organizations and subsequent seeding of leadership initiatives within those organizations, and the work of our former participants who are now in the nonprofit, public and educational sectors are all steps towards achieving this long term vision.
 
-![POPPYN Students]({{site.baseurl}}/POPPYN page 2.jpg){:.img-right}
+![POPPYN Students]({{site.baseurl}}/media/Resized POPPYN page 2.jpg){:.img-right}
 
 
 ## Activities
