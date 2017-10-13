@@ -1,6 +1,6 @@
 ---
-title: Donate
-permalink: /donate/
+title: Supporters
+permalink: /supporters/
 layout: page
 published: true
 ---
