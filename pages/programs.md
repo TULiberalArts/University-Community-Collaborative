@@ -10,6 +10,8 @@ sidebar-content: |
   [Facebook](http://facebook.com/whatsPOPPYN)    
   [Youtube](http://youtube.com/user/whatsPOPPYN)      
   [Instagram](https://www.instagram.com/whatspoppyn/)      
+  [![New POPPYN Promo Video]
+(https://yt3.ggpht.com/-8oMSOVoTJkc/AAAAAAAAAAI/AAAAAAAAAAA/P50Na9z2cYY/s288-c-k-no-mo-rj-c0xffffff/photo.jpg)](https://www.youtube.com/watch?v=CGpK3ZFH378)    
 
   ___ 
 
@@ -23,14 +25,7 @@ sidebar-content: |
   **Follow Temple Youth VOICES on social media!**  
   [Twitter](http://twitter.com/speakyourVOICES)   
   [Facebook](http://facebook.com/ty.voices)    
-  [Youtube](http://youtube.com/user/theUCCP)    
-  
-  ___ 
-  
- [![New POPPYN Promo Video]
-(https://yt3.ggpht.com/-8oMSOVoTJkc/AAAAAAAAAAI/AAAAAAAAAAA/P50Na9z2cYY/s288-c-k-no-mo-rj-c0xffffff/photo.jpg)](https://www.youtube.com/watch?v=CGpK3ZFH378)    
-
-  ___ 
+  [Youtube](http://youtube.com/user/theUCCP)   
    
 ---
 
