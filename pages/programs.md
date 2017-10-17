@@ -31,7 +31,7 @@ sidebar-content: |
 (https://yt3.ggpht.com/-8oMSOVoTJkc/AAAAAAAAAAI/AAAAAAAAAAA/P50Na9z2cYY/s288-c-k-no-mo-rj-c0xffffff/photo.jpg)](https://www.youtube.com/watch?v=CGpK3ZFH378)    
 
   ___ 
-  
+   
 ---
 
 ## The Collaborative Continuum
