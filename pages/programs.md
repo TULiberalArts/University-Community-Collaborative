@@ -9,20 +9,20 @@ sidebar-content: |
   [Twitter](http://twitter.com/whatsPOPPYN)    
   [Facebook](http://facebook.com/whatsPOPPYN)    
   [Youtube](http://youtube.com/user/whatsPOPPYN)      
-  [Instagram](https://www.instagram.com/whatspoppyn/)      
+  [Instagram](https://www.instagram.com/templeucc/)      
 
   ___ 
 
   **Follow POWER Internship on social media!**  
-  [Twitter](http://twitter.com/uccpower)   
-  [Facebook](http://facebook.com/)    
+  [Twitter](https://twitter.com/templeucc?lang=en)   
+  [Facebook](https://www.facebook.com/The-University-Community-Collaborative-152289177322/?ref=bookmarks)    
   [Youtube](http://youtube.com/user/theUCCP)           
 
   ___ 
 
   **Follow Temple Youth VOICES on social media!**  
-  [Twitter](http://twitter.com/speakyourVOICES)   
-  [Facebook](http://facebook.com/ty.voices)    
+  [Twitter](https://twitter.com/templeucc?lang=en)   
+  [Facebook](https://www.facebook.com/The-University-Community-Collaborative-152289177322/?ref=bookmarks)    
   [Youtube](http://youtube.com/user/theUCCP)
 ---
 
