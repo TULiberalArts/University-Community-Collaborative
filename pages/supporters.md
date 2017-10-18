@@ -22,7 +22,9 @@ _**To make an online donation to The Collaborative, please go to our [Giving Sit
 - Congressional Black Caucus Foundation
 - Connelly Foundation
 - Dolfinger McMahon Foundation
+- Food Trust
 - Grace S. & W. Linton Nelson Foundation
+- Hamilton Family Foundation
 - Kinder Morgan Foundation
 - Maximus Foundation
 - McCormick Foundation
@@ -31,9 +33,11 @@ _**To make an online donation to The Collaborative, please go to our [Giving Sit
 - Pew Charitable Trusts
 - Philadelphia Foundation
 - Rodeph Shalom
+- Seybert Foundation
 - Spruce Foundation
 - Starbucks Foundation
 - Union Benevolent Association
+- Valentine Foundation
 - W. Clement and Jessie V. Stone Foundation
 - William Penn Foundation
 
@@ -41,6 +45,7 @@ _**To make an online donation to The Collaborative, please go to our [Giving Sit
 
 - Corporation for National and Community Service
 - Greater Philadelphia Urban Affairs Coalition
+- Mayor’s Fund
 - Mayor’s office of Education
 - National Hispanic Housing Council
 - Pennsylvania Department of Community Economic Development
