@@ -24,9 +24,11 @@ sidebar-content: |
   [Twitter](https://twitter.com/templeucc?lang=en)   
   [Facebook](https://www.facebook.com/The-University-Community-Collaborative-152289177322/?ref=bookmarks)    
   [Youtube](http://youtube.com/user/theUCCP)
----
+  
+  ___ 
+  
 [![New POPPYN Promo Video](https://yt3.ggpht.com/-8oMSOVoTJkc/AAAAAAAAAAI/AAAAAAAAAAA/P50Na9z2cYY/s288-c-k-no-mo-rj-c0xffffff/photo.jpg)](https://www.youtube.com/watch?v=CGpK3ZFH378){:.img-right}    
-
+---
 ## The Collaborative Continuum
 
 The Collaborative Continuum, a series of afterschool and summer programs, credit bearing internships, peer education activities, media production, and paid employment, is designed to keep older youth effectively engaged with us during their high school years and through their transition to higher education.  The overarching goal of the continuum is to foster young leaders by building the necessary foundations of confidence and self esteem, developing the 21st century skills upon which effective leadership rests, creating an awareness of larger social, economic and political issues, and nurturing the kinds of values that underlie a fair and just world.
