@@ -24,10 +24,6 @@ sidebar-content: |
   [Twitter](https://twitter.com/templeucc?lang=en)   
   [Facebook](https://www.facebook.com/The-University-Community-Collaborative-152289177322/?ref=bookmarks)    
   [Youtube](http://youtube.com/user/theUCCP)
-  
-  ___ 
-  
-[![New POPPYN Promo Video](https://yt3.ggpht.com/-8oMSOVoTJkc/AAAAAAAAAAI/AAAAAAAAAAA/P50Na9z2cYY/s288-c-k-no-mo-rj-c0xffffff/photo.jpg)](https://www.youtube.com/watch?v=CGpK3ZFH378){:.img-right}    
 ---
 ## The Collaborative Continuum
 
@@ -82,6 +78,7 @@ POPPYN airs every Thursday at 4:30pm EST on Philadelphia’s Public Access Chann
 
 For more information, please contact POPPYN Coordinator Nuala at [215-204-3871](tel:2152043871) or [nuala.cabral@temple.edu](mailto:nuala.cabral@temple.edu).
 
+[![New POPPYN Promo Video](https://github.com/TULiberalArts/University-Community-Collaborative/blob/master/media/Resized%20POPPYN%20page%203.jpg?raw=true)](https://www.youtube.com/watch?v=CGpK3ZFH378){:.img-right}    
 ---
 
 ### Youth Action Scholars
