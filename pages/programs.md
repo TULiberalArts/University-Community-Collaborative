@@ -72,13 +72,14 @@ For more information please contact POWER Coordinator Adesh Dasani at [215-204-2
 
 POPPYN — An award winning youth produced TV news program focusing on issues that impact youth while highlighting the positive contributions of youth to their communities.
 
-POPPYN (Presenting our Perspective On Philly Youth News) is a youth news program that covers events and explores topics of interest to youth in Philly.  POPPYN emerged from a growing dissatisfaction among some of our youth with mainstream media’s overly negative portrayal of young people of color.  Providing a counter narrative, POPPYN focuses on how youth are addressing some of the pressing problems in Philadelphia.  Engaged in every stage of planning, production, marketing, and distribution, POPPYN crew members have covered issues of youth in foster care, gentrification, immigration and deportation, budget cuts in education, and environmental justice, among others.  POPPYN meets two afternoons per week during the school year and four days a week during the summer. Prior video experience is not necessary.
+POPPYN (Presenting our Perspective On Philly Youth News) is a youth news program that covers events and explores topics of interest to youth in Philly.  POPPYN emerged from a growing dissatisfaction among some of our youth with mainstream media’s overly negative portrayal of young people of color.  Providing a counter narrative, POPPYN focuses on how youth are addressing some of the pressing problems in Philadelphia.  Engaged in every stage of planning, production, marketing, and distribution, POPPYN crew members have covered issues of youth in foster care, gentrification, immigration and deportation, budget cuts in education, and environmental justice, among others. POPPYN meets two afternoons per week during the school year and four days a week during the summer. Prior video experience is not necessary.
 
-POPPYN airs every Thursday at 4:30pm EST on Philadelphia’s Public Access Channel: PhillyCAM (Comcast 66/Verizon 29). Episodes and segments are also [available online](http://www.youtube.com/watch?feature=player_embedded&v=X6-iaAOB2ko).
+[![New POPPYN Promo Video](https://github.com/TULiberalArts/University-Community-Collaborative/blob/master/media/Resized%20POPPYN%20page%203.jpg?raw=true)](https://www.youtube.com/watch?v=CGpK3ZFH378){:.img-right}
+
+POPPYN airs every Thursday at 4:30pm EST on Philadelphia’s Public Access Channel: PhillyCAM (Comcast 66/Verizon 29). Episodes and segments are also [available online](http://www.youtube.com/watch?feature=player_embedded&v=X6-iaAOB2ko). Click on the POPPYN icon to the right to see our latest promotional video! 
 
 For more information, please contact POPPYN Coordinator Nuala at [215-204-3871](tel:2152043871) or [nuala.cabral@temple.edu](mailto:nuala.cabral@temple.edu).
-
-[![New POPPYN Promo Video](https://github.com/TULiberalArts/University-Community-Collaborative/blob/master/media/Resized%20POPPYN%20page%203.jpg?raw=true)](https://www.youtube.com/watch?v=CGpK3ZFH378){:.img-right}    
+    
 ---
 
 ### Youth Action Scholars
