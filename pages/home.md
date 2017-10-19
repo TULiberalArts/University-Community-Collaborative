@@ -32,6 +32,8 @@ Our activities are concentrated in three areas:
 - Building organizational and community capacity through Training and Technical Assistance
 - Building collective knowledge through research
 
+___
+
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
     title="Building Young Leaders" 
