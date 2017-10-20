@@ -1,0 +1,15 @@
+// Can be overwritten on a per-site basis
+
+
+/* 1. Colors
+   ========================================================================== */
+
+$primary-color: #1791ab;
+$primary-color-light: lighten(#1791ab,10%);
+$primary-color-dark: $tu-slate;
+
+$secondary-color: $tu-charcoal;
+$success-color: $tu-olive;
+$error-color: $tu-alert;
+$link-color: $tu-cherry;
+
