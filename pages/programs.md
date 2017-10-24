@@ -43,7 +43,7 @@ Temple Youth VOICES seeks to build the individual and collective power of youth 
 
 As the main entry to our Continuum, VOICES seeks to build the individual and collective power of youth to make positive change in their communities.  Our program design achieves this through project based learning that is tied to community issues of importance to the youth; that places a heavy emphasis on teamwork and cooperation; that reaches out to community organizations as partners;  and that includes technological and creative arts components. Through this process, youth develop the cognitive, social and civic skills and knowledge necessary to be effective change agents. Participants meet two afternoons per week from 4 p.m. to 6:30 p.m. on Temple’s campus during the school year. Summer programming is 4  days per week, 5 hours per day over six weeks. Participants are typically between 14 and 18 years of age. 
 
-For more information, please contact VOICES Coordinator Johannah Bennet at [johannah@temple.edu](mailto:johannah@temple.edu) or [215-204-3871](tel:2152043871) or [484-410-9821](4844109821). 
+For more information, please contact VOICES Coordinator Johannah Bennett at [johannah@temple.edu](mailto:johannah@temple.edu) or [215-204-3871](tel:2152043871) or [484-410-9821](4844109821). 
 
 ---
 
