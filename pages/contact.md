@@ -24,7 +24,7 @@ Fax: [215-204-3770](tel:215-204-3770)<br>
    ___
    
    **VOICES Program Coordinator:**  
-   Johannah Bennett    
+   Johannah Bennett, MSW    
    430 Gladfelter Hall    
    [(215) 204-3871](tel:2152043871)  
    [johannah@temple.edu](mailto:johannah@temple.edu)  
@@ -32,7 +32,7 @@ Fax: [215-204-3770](tel:215-204-3770)<br>
    ___
    
    **Media Productions & Communications Manager:**  
-   Nuala Cabral     
+   Nuala Cabral, MFA     
    432 Gladfelter Hall    
    [(215) 204-6185](tel:2152046185)  
    [nuala.cabral@temple.edu](mailto:nuala.cabral@temple.edu)    
@@ -43,6 +43,7 @@ Fax: [215-204-3770](tel:215-204-3770)<br>
   Adesh Dasani   
   433 Gladfelter Hall    
   [(215) 204-2007](tel:2152042007)      
+  [adeshdasani@temple.edu](mailto:adeshdasani@temple.edu)   
   ___ 
    
  ### Subscribe to our newsletter (waiting on mailchimp newsletter embedd code) 
