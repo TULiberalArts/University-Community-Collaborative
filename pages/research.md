@@ -10,7 +10,7 @@ The Collaborative seeks to build the collective knowledge of the youth leadershi
 
 ## Discussion Groups
 
-The Collaborative facilitates discussion groups on timely issues such as youth violence, needs of youth workers, and youth in the media, among others. These groups are typically comprised of practitioners, researchers, youth and college students. The groups are designed to exchange ideas, broaden understanding and, ultimately, shape larger practices.
+The Collaborative facilitates discussion groups on timely issues such as youth violence, youth in foster care, environmental justice, and youth in the media, among others. These groups are typically comprised of practitioners, researchers, youth and college students. The groups are designed to exchange ideas, broaden understanding and, ultimately, shape larger practices.
 
 ## Publications
 ---
@@ -59,7 +59,15 @@ Currently, we are told that rapid advances in technology have rendered place alm
 ## Conference Presentations
 ---
 
-- **National Youth Leadership Council**. Denver, CO March 14, 2013.
+- **Youth-Nex Conference, Charlottesville**, VA, October 26-27, 2017
+- **Adolescent Networking Conference,** Camden, NJ April 27, 2017
+- **Urban Affairs Association, Minneapolis,** MN,  April  19-22, 2017
+- **National Communications Association,** Philadelphia, PA November 11, 2016
+- **National Association for Black and Hispanic Journalists (Nuala—location and dates)**
+- **Girls Leadership Conference (Nuala—location and dates)**
+- **Education for Liberation Conference, Philadelphia, PA  (Nuala—location and dates)**
+- **Middle School Diversity Conference, the Haverford School,** Lower Merion, PA  
+**National Youth Leadership Council**. Denver, CO March 14, 2013.
 - **Philadelphia Higher Education Network for Neighborhood Development (PHENND)** Philadelphia, PA. March 1 2013.
 - **Promising Practices-Proven Strategies: Strengthening Youth, Families and Communities through Quality Extra Learning Opportunities’**, Pennsylvania Department of Education. Harrisburg, PA. March 2011, March 2010, and March 2007.
 - **Action Civics Conference. Harvard University**, Cambridge, MA. August 28-30 2010.
