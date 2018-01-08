@@ -63,7 +63,7 @@ The Collaborative works with many organizations locally and nationally to promot
 
 We are a founding member of the Allegheny West Consortium, an intentional effort to share resources and practices across several educational institutions in the Allegheny West part of North Philadelphia. Consortium members include: Bayard Taylor Middle School, Dr. Ethel Allen School, Logan Hope School, Penn Charter School, St. James School, The Schools Collective, University Community Collaborative.
 
-### [Campaign for Non Violent Schools (member)](http://www.campaignfornonviolentschools.org/)
+### Campaign for Non Violent Schools (member)
 
 We are a member of the Campaign for Non Violent Schools, a youth-led citywide coalition in Philadelphia that aims to end all forms of school violence without pushing students into the criminal justice system.
 
