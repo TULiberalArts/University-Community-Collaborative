@@ -2,6 +2,8 @@
 title: Videos
 permalink: /videos/
 layout: page
+keywords: 'POPPYN videos, awards'
+description: >-
 published: true
 ---
 
@@ -18,7 +20,6 @@ In this episode, POPPYN covers the ways that young people get and stay fit aroun
 - [POPPYN Ep 21: Youth and the Foster Care System](https://www.youtube.com/watch?v=vlhcwYQDylI)
 
 ## Awards
-
 The following list of awards were accomplished by our amazing students through various programs or films throughtout the Philadelphia areas. Most of theses are for award winning films! 
 
 - PhillyCAM 2nd Annual Impact Award, 2012 
