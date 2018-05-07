@@ -3,7 +3,7 @@ title: Staff
 permalink: /staff/
 redirect_from: /faculty/
 layout: faculty2
-keywords: ''
+keywords: 'university community collabortative, staff'
 description: >-
 published: true
 ---
