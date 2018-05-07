@@ -5,15 +5,13 @@ layout: page
 published: true
 ---
 ## Building Collective Knowledge
----
 The Collaborative seeks to build the collective knowledge of the youth leadership and education communities through **discussion groups, publications and conference presentations**. All work is conducted in collaborative fashion and designed to inform practice.
 
 ## Discussion Groups
-
 The Collaborative facilitates discussion groups on timely issues such as youth violence, youth in foster care, environmental justice, and youth in the media, among others. These groups are typically comprised of practitioners, researchers, youth and college students. The groups are designed to exchange ideas, broaden understanding and, ultimately, shape larger practices.
 
 ## Publications
----
+
 ### Shifting Stereotypes and Storylines: The Political Potential of Youth Media
 _by Barbara Ferman and Natalia Smirnov_
 
