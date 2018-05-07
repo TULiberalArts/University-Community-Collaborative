@@ -2,7 +2,7 @@
 title: Technical Assistance
 permalink: /technical-assistance/
 layout: page
-keywords: ''
+keywords: 'direct programming, workshops, clients, ucc'
 description: >-
 published: true
 ---
