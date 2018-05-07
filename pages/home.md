@@ -3,7 +3,7 @@ title: Home
 permalink: /
 layout: home3
 description: >-
-keywords: ''
+keywords: 'university community collaborative, youth programs, organizations'
 feature: true
 feature-title: 
 feature-image: media/Resized UCC hero.png
@@ -14,20 +14,17 @@ published: true
 ![Nuala and Students]({{site.baseurl}}/media/Resized Teaching Consent.jpg){:.img-right}
 
 ## Mission Statement
-
 The Collaborative prepares and supports youth and young adults to become confident, effective leaders and creates cultures that value and integrate the contributions of youth, thereby building stronger communities.
 
 Founded in 1997, the Collaborative (formerly the UCCP) began youth programming in 2001 with a single program (VOICES) and one part-time staff person. Since then, we have developed a continuum that provides opportunities for older youth over a multi-year period, launched an award winning youth produced TV News Show, developed a successful training and technical assistance component, increased our full-time staff to 4, developed a very strong Leaders Corps of approximately 15 youth who serve as part-time staff, and secured funding from major foundations, federal, state and local governments, individual donors, and fee for service activities.
 
 ## Vision 
-
 Our long term vision is to shift the approach to working with older youth from one that focuses on short term interventions to one that embraces a long term view, providing youth with opportunities to grow into leadership positions and supporting them once they are there.  Our training of young leaders, our continuum model, our capacity building assistance to other organizations and subsequent seeding of leadership initiatives within those organizations, and the work of our former participants who are now in the nonprofit, public and educational sectors are all steps towards achieving this long term vision.
 
 ![POPPYN Students]({{site.baseurl}}/media/Resized POPPYN page 2.jpg){:.img-right}
 
 
 ## Activities
-
 Our activities are concentrated in three areas:
 
 - Building young leaders through our programming continuum
