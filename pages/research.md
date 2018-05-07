@@ -2,6 +2,8 @@
 title: Research
 permalink: /research/
 layout: page
+keywords: 'publications, discussion groups, conference presentations'
+description: >-
 published: true
 ---
 ## Building Collective Knowledge
@@ -46,7 +48,6 @@ _by Barbara Ferman and T.L. Hill_,
 _Journal of Urban Affairs, 2004_
 
 Responding to both the proliferation of higher-education-community partnerships and the paucity of studies that report the perspective of the community partners in such relationships, we interviewed community leaders to learn about their motivations for and experiences of participating in higher-education-community research partnerships. The article reports community leaders’ assessments of the benefits and challenges of engaging in such partnerships, shares their advice for both community and university-based actors considering involvement in such partnerships, and explores the larger institutional and structural issues that bedevil higher-education-community partnerships. [Full pdf of the article](https://liberalarts.temple.edu/sites/liberalarts/files/jua_article.pdf). 
-
 
 ### The Role of Institutions in Community Building: The Case of West Mt. Airy, Philadelphia
 _by Barbara Ferman and Patrick Kaylor_,
