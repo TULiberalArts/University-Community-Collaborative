@@ -2,6 +2,8 @@
 title: Programs
 permalink: /programs/
 layout: page
+keywords: 'POPPYN, POWER internship, VOICES, collaborative continum, POPPYN, leader corps, leadership development institute'
+description: >-
 published: true
 sidebar: true
 sidebar-content: |
@@ -26,13 +28,11 @@ sidebar-content: |
   [Youtube](http://youtube.com/user/theUCCP)
 ---
 ## The Collaborative Continuum
-
 The Collaborative Continuum, a series of afterschool and summer programs, credit bearing internships, peer education activities, media production, and paid employment, is designed to keep older youth effectively engaged with us during their high school years and through their transition to higher education.  The overarching goal of the continuum is to foster young leaders by building the necessary foundations of confidence and self esteem, developing the 21st century skills upon which effective leadership rests, creating an awareness of larger social, economic and political issues, and nurturing the kinds of values that underlie a fair and just world.
 
 ---
 
 ### Temple Youth VOICES
-
 Temple Youth VOICES seeks to build the individual and collective power of youth by integrating leadership development, community outreach and project based learning in a supportive, team environment.
 
 > _“I ask my son everyday how was school and I just get an ‘ok’, ‘alright’ or grunt… During his second week of VOICES I asked him “How was your day?” and he responded Great! That was the first time I ever heard that.” – Parent_
@@ -48,7 +48,6 @@ For more information, please contact VOICES Coordinator Johannah Bennett at [joh
 ---
 
 ### POWER Internship
-
 POWER Internship recognizes the relationship between educational and workplace skills, integrating nonprofit work experience with the development of foundational academic and technical skills through collaborative research, critical thinking, communication, public speaking and media production projects.
 
 > _“As long as I work in Philadelphia, I will always connect students with POWER and the Collaborative. They do such a magnificent job immersing young people in vital skill and citizenship development activities.” — Philadelphia High School Teacher_
@@ -82,7 +81,6 @@ For more information, please contact POPPYN Coordinator Nuala at [215-204-3871](
 ---
 
 ### Youth Action Scholars
-
 Youth Action Scholars provides the next step for youth who have completed VOICES or the POWER Internship. Over the course of a year, participants form a team to identify an issue, conduct related research to become experts in the topic, and raise awareness through community educational workshops and events.
 
 > _“Youth Action Scholars allowed me to get the field work I needed to pass my senior project.  It also taught me about teamwork, accountability and reliability.  The staff here is great, they are incredibly helpful and informative.” -YAS participant, 2010_
@@ -96,7 +94,6 @@ For youth who have gone through VOICES or POWER, this year long program equips s
 ---
 
 ### Leaders Corps
-
 **Leaders Corps** provides paid leadership positions within The Collaborative for former program participants to facilitate all youth leadership programs, assist in training and technical assistance activities and participate in other aspects of the organization.
 
 > _“Working with The Collaborative I’ve learned that empowering youth is the most meaningful action I can take.  To do so successfully, I have to be prepared, organized, and a responsible leader.”  – Leader Corps Member_
@@ -108,7 +105,6 @@ All programming is implemented by our Leaders Corps, a dynamic team of former pr
 ---
 
 ### Leadership Development Institute
-
 **Leadership Development Institute** is an intensive 2 week summer program through which participants learn the core principles of positive youth development, networking, community outreach, mentorship, youth organizing and use of media as an instrument in building community and driving social change.
 
 > _“I am using some of the strategies I learned in the LDI at my current college. There are very few minorities and I want to start a student organization to address some of our concerns. I want to make positive social changes in every community I belong to.”_
