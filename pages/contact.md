@@ -2,7 +2,7 @@
 title: Contact
 permalink: /contact/
 layout: page
-keywords: ''
+keywords: 'contact us, VOICES, media productions, POWER'
 description: >-
 published: true
 ---
