@@ -5,6 +5,8 @@ title: University Community Collaborative
 baseurl: /university-community-collaborative
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+# url spits sitemap
+url: https://www.cla.temple.edu/university-community-collaborative
 
 
 # Program Information
