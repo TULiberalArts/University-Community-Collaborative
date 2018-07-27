@@ -8,6 +8,10 @@ production: https://www.cla.temple.edu
 # url spits sitemap
 url: https://www.cla.temple.edu/university-community-collaborative
 
+# Development Config
+# If you do not have access to 'tutheme', use 'minima' instead.
+theme: tutheme
+palette: light #future feature
 
 # Program Information
 # Short tagline for tweets (<100 characters)
@@ -26,6 +30,23 @@ address:
   phone: 215-204-6276
   email:
   
+# University & College Information
+university:
+  name: Temple University
+  url: https://temple.edu/
+college:
+  name: College of Liberal Arts
+  url: https://liberalarts.temple.edu/
+  
+program_news: https://liberalarts.temple.edu/news/university-community-collaborative
+program_events: https://events.temple.edu/events/university-community-collaborative 
+
+# CSV/JSON/YAML data feeds URLs, to be fetched before each build
+events-feed: https://liberalarts.temple.edu/events/university-community-collaborative/csv
+news-feed: https://liberalarts.temple.edu/articles/university-community-collaborative/csv
+articles-feed: https://liberalarts.temple.edu/articles/university-community-collaborative/csv
+faculty-feed: https://liberalarts.temple.edu/profiles/university-community-collaborative/csv
+media-mentions-feed: https://liberalarts.temple.edu/media-mentions/university-community-collaborative/csv
 
 # Social Media
 # Put in only the username unless otherwise noted
@@ -52,34 +73,10 @@ social:
   linkedin:
   # Slack - Paste the FULL URL below
   slack:
+  # Google Tag Manager OR Google Analytics
+  google_analytics:
+  google_tag_manager: GTM-58ZL5B
 
-# University & College Information
-university:
-  name: Temple University
-  url: https://temple.edu/
-college:
-  name: College of Liberal Arts
-  url: https://liberalarts.temple.edu/
-  
-program_news: https://liberalarts.temple.edu/news/university-community-collaborative
-program_events: https://events.temple.edu/events/university-community-collaborative 
-
-# Google Tag Manager OR Google Analytics
-google_analytics:
-
-
-google_tag_manager: GTM-58ZL5B
-
-# CSV/JSON/YAML data feeds URLs, to be fetched before each build
-events-feed: https://liberalarts.temple.edu/events/university-community-collaborative/csv
-news-feed: https://liberalarts.temple.edu/articles/university-community-collaborative/csv
-articles-feed: https://liberalarts.temple.edu/articles/university-community-collaborative/csv
-faculty-feed: https://liberalarts.temple.edu/profiles/university-community-collaborative/csv
-media-mentions-feed: https://liberalarts.temple.edu/media-mentions/university-community-collaborative/csv
-
-# Development Config
-# If you do not have access to 'tutheme', use 'minima' instead.
-theme: tutheme
 
 # Global Site Config
 # DO NOT edit below unless if you know what you're doing!
