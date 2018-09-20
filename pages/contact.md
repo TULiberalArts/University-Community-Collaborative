@@ -1,10 +1,13 @@
 ---
-title: Contact
+# global predefined variables
+layout: tla_page
 permalink: /contact/
-layout: page
-keywords: 'contact us, VOICES, media productions, POWER'
-description: >-
 published: true
+# meta-data variables
+title: Contact
+description: >-
+keywords: 'contact us, VOICES, media productions, POWER'
+# custom variables
 ---
 Temple University<br>
 Gladfelter Hall, 4th Floor<br> 
