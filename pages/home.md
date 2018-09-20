@@ -1,18 +1,20 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
-layout: home3
+published: true
+# meta-data variables
+title: Home
 description: >-
 keywords: 'university community collaborative, youth programs, organizations'
+# custom variables
 promotion-table: true
 sidebar: false
 feature: true
-feature-title:
+feature-title: 
 feature-image: media/Resized UCC hero.png
-feature-body:
-published: true
+feature-body: >-
 ---
-
 ![Nuala and Students]({{site.baseurl}}/media/Resized Teaching Consent.jpg){:.img-right}
 
 ## Mission Statement
