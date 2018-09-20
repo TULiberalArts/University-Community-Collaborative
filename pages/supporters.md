@@ -1,12 +1,14 @@
 ---
-title: Supporters
+# global predefined variables
+layout: tla_page
 permalink: /supporters/
-layout: page
-keywords: 'donate, collaborators, foundations, funders'
-description: >-
 published: true
+# meta-data variables
+title: Supporters
+description: >-
+keywords: 'donate, collaborators, foundations, funders'
+# custom variables
 ---
-
 ![Donate Online]({{site.baseurl}}/media/give-now-1.png)
 
 _**To make an online donation to The Collaborative, please go to our [Giving Site](http://giving.temple.edu/givetoUCCP)**_.
