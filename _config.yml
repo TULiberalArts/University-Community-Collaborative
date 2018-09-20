@@ -1,12 +1,12 @@
 ---
 # Program/Department Title
 title: University Community Collaborative
+# url spits sitemap
+url: https://www.cla.temple.edu/university-community-collaborative
 # Subdirectory (with / at only at beginning)
 baseurl: /university-community-collaborative
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
-# url spits sitemap
-url: https://www.cla.temple.edu/university-community-collaborative
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
@@ -17,7 +17,7 @@ palette: light #future feature
 # Short tagline for tweets (<100 characters)
 tagline: This is our life's work
 # Longer descriptions for link previews (<250 characters)
-description: ''
+description: 'UCC'
 # List of related keywords for search engines
 keywords: highered, college, university, philadelphia, Temple
 
@@ -39,7 +39,7 @@ college:
   url: https://liberalarts.temple.edu/
   
 program_news: https://liberalarts.temple.edu/news/university-community-collaborative
-program_events: https://events.temple.edu/events/university-community-collaborative 
+program_events: https://events.temple.edu/events/university-community-collaborative
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/university-community-collaborative/csv
