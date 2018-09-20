@@ -1,10 +1,13 @@
 ---
-title: Research
+# global predefined variables
+layout: tla_page
 permalink: /research/
-layout: page
-keywords: 'publications, discussion groups, conference presentations'
-description: >-
 published: true
+# meta-data variables
+title: Research
+description: >-
+keywords: 'publications, discussion groups, conference presentations'
+# custom variables
 ---
 ## Building Collective Knowledge
 The Collaborative seeks to build the collective knowledge of the youth leadership and education communities through **discussion groups, publications and conference presentations**. All work is conducted in collaborative fashion and designed to inform practice.
