@@ -1,10 +1,14 @@
 ---
-title: Technical Assistance
+# global predefined variables
+layout: tla_page
 permalink: /technical-assistance/
-layout: page
-keywords: 'direct programming, workshops, clients, ucc'
-description: >-
 published: true
+# meta-data variables
+title: Technical Assistance
+description: >-
+keywords: 'direct programming, workshops, clients, ucc'
+# custom variables
+sidebar: false
 ---
 ## Building Organizational and Community Capacity
 ---
