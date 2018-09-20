@@ -1,9 +1,11 @@
 ---
-title: Staff
+# global predefined variables
+layout: tla_faculty
 permalink: /staff/
-redirect_from: /faculty/
-layout: faculty2
-keywords: 'university community collabortative, staff'
-description: >-
 published: true
+# meta-data variables
+title: Staff
+description: >-
+keywords: 'university community collabortative, staff'
+# custom variables
 ---
