@@ -1,12 +1,15 @@
 ---
-title: Videos
+# global predefined variables
+layout: tla_page
 permalink: /videos/
-layout: page
-keywords: 'POPPYN videos, awards'
-description: >-
 published: true
+# meta-data variables
+title: Videos
+description: >-
+keywords: 'POPPYN videos, awards'
+# custom variables
+sidebar: false
 ---
-
 ## Videos
 
 - [Listen Up](https://www.youtube.com/watch?v=mR1lpnaqWKM&feature=youtu.be)
