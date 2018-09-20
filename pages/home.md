@@ -5,15 +5,12 @@ permalink: /
 published: true
 # meta-data variables
 title: Home
-description: >-
 keywords: 'university community collaborative, youth programs, organizations'
 # custom variables
 promotion-table: true
 sidebar: false
 feature: true
-feature-title: 
-feature-image: media/Resized UCC hero.png
-feature-body: >-
+feature-image: media/ucc-hero.png
 ---
 ![Nuala and Students]({{site.baseurl}}/media/Resized Teaching Consent.jpg){:.img-right}
 
