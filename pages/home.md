@@ -7,9 +7,9 @@ published: true
 title: Home
 keywords: 'university community collaborative, youth programs, organizations'
 # custom variables
-promotion-table: true
+promotion-table: false
 sidebar: false
-feature: true
+feature: false
 feature-image: media/ucc-hero.png
 ---
 ![Nuala and Students]({{site.baseurl}}/media/Resized Teaching Consent.jpg){:.img-right}
