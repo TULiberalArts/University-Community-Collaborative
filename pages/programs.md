@@ -1,10 +1,13 @@
 ---
-title: Programs
+# global predefined variables
+layout: tla_page
 permalink: /programs/
-layout: page
-keywords: 'POPPYN, POWER internship, VOICES, collaborative continum, POPPYN, leader corps, leadership development institute'
-description: >-
 published: true
+# meta-data variables
+title: Programs
+description: >-
+keywords: 'POPPYN, POWER internship, VOICES, collaborative continum, POPPYN, leader corps, leadership development institute'
+# custom variables
 sidebar: true
 sidebar-content: |
   **Follow POPPYN on social media!**    
