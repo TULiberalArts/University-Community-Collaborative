@@ -8,7 +8,7 @@ title: Videos
 description: >-
 keywords: 'POPPYN videos, awards'
 # custom variables
-sidebar: false
+
 ---
 ## Videos
 

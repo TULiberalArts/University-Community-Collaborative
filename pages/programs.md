@@ -8,7 +8,7 @@ title: Programs
 description: >-
 keywords: 'POPPYN, POWER internship, VOICES, collaborative continum, POPPYN, leader corps, leadership development institute'
 # custom variables
-sidebar: true
+
 sidebar-content: |
   **Follow POPPYN on social media!**    
   [Twitter](http://twitter.com/whatsPOPPYN)    
