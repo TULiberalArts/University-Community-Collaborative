@@ -75,7 +75,7 @@ POPPYN — An award winning youth produced TV news program focusing on issues th
 
 POPPYN (Presenting our Perspective On Philly Youth News) is a youth news program that covers events and explores topics of interest to youth in Philly.  POPPYN emerged from a growing dissatisfaction among some of our youth with mainstream media’s overly negative portrayal of young people of color.  Providing a counter narrative, POPPYN focuses on how youth are addressing some of the pressing problems in Philadelphia.  Engaged in every stage of planning, production, marketing, and distribution, POPPYN crew members have covered issues of youth in foster care, gentrification, immigration and deportation, budget cuts in education, and environmental justice, among others. POPPYN meets two afternoons per week during the school year and four days a week during the summer. Prior video experience is not necessary.
 
-[![New POPPYN Promo Video](https://github.com/TULiberalArts/University-Community-Collaborative/blob/master/media/Resized%20POPPYN%20page%203.jpg?raw=true)](https://www.youtube.com/watch?v=CGpK3ZFH378){:.img-right}
+[![New POPPYN Promo Video](https://github.com/TULiberalArts/University-Community-Collaborative/blob/master/media/Resized%20POPPYN%20page%203.jpg?raw=true)](https://www.youtube.com/watch?v=CGpK3ZFH378){:.responsive-img .img-right}
 
 POPPYN airs every Thursday at 4:30pm EST on Philadelphia’s Public Access Channel: PhillyCAM (Comcast 66/Verizon 29). Episodes and segments are also [available online](http://www.youtube.com/watch?feature=player_embedded&v=X6-iaAOB2ko). **Click on the POPPYN icon to the right to see our latest episode!**
 
