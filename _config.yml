@@ -7,6 +7,7 @@ url: https://www.cla.temple.edu/university-community-collaborative
 baseurl: /university-community-collaborative
 # Production domain (without / at the end)
 production: https://www.cla.temple.edu
+faculty-page: /staff/
 
 # Development Config
 # If you do not have access to 'tutheme', use 'minima' instead.
