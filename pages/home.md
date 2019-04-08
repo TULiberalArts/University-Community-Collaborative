@@ -10,7 +10,7 @@ keywords: 'university community collaborative, youth programs, organizations'
 promotion-table: true
 feature: true
 feature-title: 
-feature-image: media/UCC Hero.jpg
+feature-image: media/uccheronew.jpg
 feature-body: >-
 ---
 ![Nuala and Students]({{site.baseurl}}/media/Resized Teaching Consent.jpg){:.img-right}
