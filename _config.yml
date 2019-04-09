@@ -44,7 +44,7 @@ program_events: https://events.temple.edu/events/university-community-collaborat
 
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/university-community-collaborative/csv
-news-feed: https://liberalarts.temple.edu/articles/university-community-collaborative/csv
+news-feed: https://liberalarts.temple.edu/news/university-community-collaborative/csv
 articles-feed: https://liberalarts.temple.edu/articles/university-community-collaborative/csv
 faculty-feed: https://liberalarts.temple.edu/profiles/university-community-collaborative/csv
 media-mentions-feed: https://liberalarts.temple.edu/media-mentions/university-community-collaborative/csv
