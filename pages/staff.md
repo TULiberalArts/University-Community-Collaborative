@@ -8,4 +8,5 @@ title: Staff
 description: >-
 keywords: 'university community collabortative, staff'
 # custom variables
+faculty: profiles/faculty.html
 ---
