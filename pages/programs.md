@@ -8,32 +8,12 @@ title: Programs
 description: >-
 keywords: 'POPPYN, POWER internship, VOICES, collaborative continum, POPPYN, leader corps, leadership development institute'
 # custom variables
-
-sidebar-content: |
-  **Follow POPPYN on social media!**    
-  [Twitter](http://twitter.com/whatsPOPPYN)    
-  [Facebook](http://facebook.com/whatsPOPPYN)    
-  [Youtube](http://youtube.com/user/whatsPOPPYN)      
-  [Instagram](https://www.instagram.com/templeucc/)      
-
-  ___ 
-
-  **Follow POWER Internship on social media!**  
-  [Twitter](https://twitter.com/templeucc?lang=en)   
-  [Facebook](https://www.facebook.com/The-University-Community-Collaborative-152289177322/?ref=bookmarks)    
-  [Youtube](http://youtube.com/user/theUCCP)           
-
-  ___ 
-
-  **Follow Temple Youth VOICES on social media!**  
-  [Twitter](https://twitter.com/templeucc?lang=en)   
-  [Facebook](https://www.facebook.com/The-University-Community-Collaborative-152289177322/?ref=bookmarks)    
-  [Youtube](http://youtube.com/user/theUCCP)
+sidebar: sidebars/undergraduate.html
 ---
 ## The Collaborative Continuum
 The Collaborative Continuum, a series of afterschool and summer programs, credit bearing internships, peer education activities, media production, and paid employment, is designed to keep older youth effectively engaged with us during their high school years and through their transition to higher education.  The overarching goal of the continuum is to foster young leaders by building the necessary foundations of confidence and self esteem, developing the 21st century skills upon which effective leadership rests, creating an awareness of larger social, economic and political issues, and nurturing the kinds of values that underlie a fair and just world.
 
----
+___
 
 ### Temple Youth VOICES
 Temple Youth VOICES seeks to build the individual and collective power of youth by integrating leadership development, community outreach and project based learning in a supportive, team environment.
@@ -48,7 +28,7 @@ As the main entry to our Continuum, VOICES seeks to build the individual and col
 
 For more information, please contact VOICES Coordinator Johannah Bennett at [johannah@temple.edu](mailto:johannah@temple.edu) or [215-204-3871](tel:2152043871) or [484-410-9821](4844109821). 
 
----
+___
 
 ### POWER Internship
 POWER Internship recognizes the relationship between educational and workplace skills, integrating nonprofit work experience with the development of foundational academic and technical skills through collaborative research, critical thinking, communication, public speaking and media production projects.
@@ -61,7 +41,7 @@ For high school juniors and seniors, this credit bearing Internship integrates e
 
 For more information please contact POWER Coordinator Adesh Dasani at [215-204-2007](tel:2152042007) or [adeshdasani@temple.edu](mailto:adeshdasani@temple.edu). 
 
----
+___
 
 ### POPPYN
 
@@ -81,7 +61,7 @@ POPPYN airs every Thursday at 4:30pm EST on Philadelphia’s Public Access Chann
 
 For more information, please contact POPPYN Coordinator Nuala at [215-204-3871](tel:2152043871) or [nuala.cabral@temple.edu](mailto:nuala.cabral@temple.edu).
     
----
+___
 
 ### Youth Action Scholars
 Youth Action Scholars provides the next step for youth who have completed VOICES or the POWER Internship. Over the course of a year, participants form a team to identify an issue, conduct related research to become experts in the topic, and raise awareness through community educational workshops and events.
@@ -94,7 +74,7 @@ For youth who have gone through VOICES or POWER, this year long program equips s
 
 > _“Ever since I joined the Youth Action Scholars, I have gained skills to better myself as a leader.  In my school, I have begun to help people understand things that I have learned…The Leaders Corps and staff have supported me wonderfully.  In don’t  think anything can be done to better support me.”  -YAS participant, 2010_
 
----
+___
 
 ### Leaders Corps
 **Leaders Corps** provides paid leadership positions within The Collaborative for former program participants to facilitate all youth leadership programs, assist in training and technical assistance activities and participate in other aspects of the organization.
@@ -105,7 +85,7 @@ For youth who have gone through VOICES or POWER, this year long program equips s
 
 All programming is implemented by our Leaders Corps, a dynamic team of former program participants who are now college students serving as de-facto role models for younger cohorts. Leaders Corps members receive ongoing support and professional development that prepares them to facilitate Collaborative programs, support training and technical assistance at other organizations, and conduct workshops in the community and at professional conferences.  In addition to developing participants’ skills, leadership, and confidence, this practice has shaped career and educational aspirations. Many of our former Leaders Corps members are teaching in Philadelphia and other cities and working in the nonprofit and public sectors. Additionally, many have pursued policy-oriented graduate and law school programs. These alums have taken their leadership on the road, helping to inspire a new generation of social justice leaders. Their example also serves as a powerful motivator for high school students who see in it the civic pathway to college and the college pathway to leadership.
 
----
+___
 
 ### Leadership Development Institute
 **Leadership Development Institute** is an intensive 2 week summer program through which participants learn the core principles of positive youth development, networking, community outreach, mentorship, youth organizing and use of media as an instrument in building community and driving social change.
