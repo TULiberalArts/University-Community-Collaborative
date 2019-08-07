@@ -43,10 +43,7 @@ Fax: [215-204-3770](tel:215-204-3770)<br>
    ___ 
    
   **POWER Coordinator, University Community Collaborative:**  
-  Adesh Dasani   
-  433 Gladfelter Hall    
-  [(215) 204-2007](tel:2152042007)      
-  [adeshdasani@temple.edu](mailto:adeshdasani@temple.edu)   
+  
   ___ 
    
  ### Subscribe to our newsletter (waiting on mailchimp newsletter embedd code) 
