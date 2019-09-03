@@ -4,7 +4,7 @@ layout: tla_page_test
 permalink: /videos/
 published: true
 # meta-data variables
-title: Videos
+title: Videos and Awards
 description: >-
 keywords: 'POPPYN videos, awards'
 # custom variables
@@ -23,11 +23,11 @@ In this episode, POPPYN covers the ways that young people get and stay fit aroun
 - [POPPYN Ep 21: Youth and the Foster Care System](https://www.youtube.com/watch?v=vlhcwYQDylI)
 
 ## Awards
-The following list of awards were accomplished by our amazing students through various programs or films throughtout the Philadelphia areas. Most of theses are for award winning films! 
+The following list of awards were accomplished by our amazing students through various programs or films throughtout the Philadelphia areas. Most of theses are for award winning films!
 
-- PhillyCAM 2nd Annual Impact Award, 2012 
+- PhillyCAM 2nd Annual Impact Award, 2012
 - Best Documentary Award, Mashed Media Festival in April, 2015
-- PYMC Social Justice Honoree, 2016 
+- PYMC Social Justice Honoree, 2016
 - WHYY Best Reporting Award, 2016
 - Best Documentary Award, Derek Freese Youth Media Film Festival, 2016
 - Temple Student Affairs Honoree, 2017
