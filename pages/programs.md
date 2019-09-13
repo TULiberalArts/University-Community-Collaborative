@@ -35,12 +35,10 @@ POWER Internship recognizes the relationship between educational and workplace s
 
 > _“As long as I work in Philadelphia, I will always connect students with POWER and the Collaborative. They do such a magnificent job immersing young people in vital skill and citizenship development activities.” — Philadelphia High School Teacher_
 
-![POWER Internship Students]({{site.baseurl}}/media//Power Internship.jpg){:.responsive-img .img-right}
+![POWER Internship Students]({{site.baseurl}}/media/Power Internship.jpg){:.responsive-img .img-right}
 
 For high school juniors and seniors, this credit bearing Internship integrates exposure to nonprofit work environments with a deepening of civic commitment and social inquiry and a broadening of research, media literacy and technological skills. The curriculum provides content based learning in local politics and government, social movements, and issues of race, class and gender. Through collaborative project based learning, students apply the research, critical thinking, communication and technology skills they have developed to timely issues such as youth homelessness, youth as victims of violence, youth in popular culture, and the like, usually producing a [Public Service Announcement (PSA)](https://www.youtube.com/watch?v=9AqDPxQdbj8) or longer length film that is publicly screened and discussed.  Students also have opportunities to shadow Collaborative and university staff as well as college student leaders from across the city, thereby gaining a fuller picture of various professional and leadership opportunities and what they entail. POWER meets one afternoon per week for 20 weeks for a total of 80 hours.
-
-For more information please contact POWER Coordinator Adesh Dasani at [215-204-2007](tel:2152042007) or [adeshdasani@temple.edu](mailto:adeshdasani@temple.edu). 
-
+ 
 ___
 
 ### POPPYN
