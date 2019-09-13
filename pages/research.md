@@ -8,6 +8,7 @@ title: Research
 description: >-
 keywords: 'publications, discussion groups, conference presentations'
 # custom variables
+sidebar: sidebars/graduate.html   
 ---
 ## Building Collective Knowledge
 The Collaborative seeks to build the collective knowledge of the youth leadership and education communities through **discussion groups, publications and conference presentations**. All work is conducted in collaborative fashion and designed to inform practice.
