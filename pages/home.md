@@ -9,11 +9,11 @@ keywords: 'university community collaborative, youth programs, organizations'
 # custom variables
 promotion-table: true
 feature: true
-feature-title: 
+feature-title:
 feature-image: media/uccheronew.jpg
 feature-body: >-
 ---
-![UCC Hero]({{site.baseurl}}/media/croppedfadeducc-hero.png){:.responsive-img .image-full}
+![UCC Hero]({{site.baseurl}}/media/croppedfadeducc-hero.png){:.responsive-img }
 
 ___
 
