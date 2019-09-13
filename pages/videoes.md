@@ -8,7 +8,7 @@ title: Videos and Awards
 description: >-
 keywords: 'POPPYN videos, awards'
 # custom variables
-
+sidebar: sidebars/graduate.html   
 ---
 ## Videos
 
