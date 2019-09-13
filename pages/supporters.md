@@ -8,6 +8,7 @@ title: Supporters
 description: >-
 keywords: 'donate, collaborators, foundations, funders'
 # custom variables
+sidebar: sidebars/graduate.html   
 ---
 ![Donate Online]({{site.baseurl}}/media/give-now-1.png)
 
