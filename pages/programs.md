@@ -66,7 +66,7 @@ Youth Action Scholars provides the next step for youth who have completed VOICES
 
 > _“Youth Action Scholars allowed me to get the field work I needed to pass my senior project.  It also taught me about teamwork, accountability and reliability.  The staff here is great, they are incredibly helpful and informative.” -YAS participant, 2010_
 
-![Youth Action Scholars]({{site.baseurl}}/media/Youth Action Scholars.jpg){:.responsive-img .img-right}
+![Youth Action Scholars]({{site.baseurl}}/media/resizedyouthactionscholars){:.responsive-img .img-right}
 
 For youth who have gone through VOICES or POWER, this year long program equips students with the skills and ability to become Peer Educators.  Through research and networking, Youth Action Scholars educate themselves on a topic and then develop and conduct workshops to raise awareness amongst their peers.  Through these various activities, Youth Action Scholars hope to build communities of interest and engagement. YAS meets one day per week for 3 hours.
 
@@ -79,7 +79,7 @@ ___
 
 > _“Working with The Collaborative I’ve learned that empowering youth is the most meaningful action I can take.  To do so successfully, I have to be prepared, organized, and a responsible leader.”  – Leader Corps Member_
 
-![Leader Corps Students]({{site.baseurl}}/media/Leader Corps.jpg){:.responsive-img .img-right}
+![Leader Corps Students]({{site.baseurl}}/media/resizedleadercorps){:.responsive-img .img-right}
 
 All programming is implemented by our Leaders Corps, a dynamic team of former program participants who are now college students serving as de-facto role models for younger cohorts. Leaders Corps members receive ongoing support and professional development that prepares them to facilitate Collaborative programs, support training and technical assistance at other organizations, and conduct workshops in the community and at professional conferences.  In addition to developing participants’ skills, leadership, and confidence, this practice has shaped career and educational aspirations. Many of our former Leaders Corps members are teaching in Philadelphia and other cities and working in the nonprofit and public sectors. Additionally, many have pursued policy-oriented graduate and law school programs. These alums have taken their leadership on the road, helping to inspire a new generation of social justice leaders. Their example also serves as a powerful motivator for high school students who see in it the civic pathway to college and the college pathway to leadership.
 
@@ -90,6 +90,6 @@ ___
 
 > _“I am using some of the strategies I learned in the LDI at my current college. There are very few minorities and I want to start a student organization to address some of our concerns. I want to make positive social changes in every community I belong to.”_
 
-![Leadership Development Institute]({{site.baseurl}}/media/Leadership Development Institute.jpg){:.responsive-img .img-right}
+![Leadership Development Institute]({{site.baseurl}}/media/resizedleadershipdevelopmentinstitute.jpg){:.responsive-img .img-right}
 
 Participants who have been through one or more of the Collaborative’s programs and who demonstrate a readiness to assume a leadership role within the Collaborative or in other organizations can apply to the Leadership Development Institute.  Grounded in the Collaborative’s philosophy of positive youth leadership development and social justice, the Institute provides intensive training in group facilitation, project development and management, curriculum design and implementation, community outreach and networking, media as a tool for positive social change, and working with diverse populations.  Successful graduates can apply for a paid position on the Leaders Corps.  The LDI meets for 2 weeks, 25 hours per week in the summer.  Enrollment is typically between 8-12 participants.
