@@ -13,7 +13,7 @@ feature-title:
 feature-image: media/uccheronew.jpg
 feature-body: >-
 ---
-![UCC Hero]({{site.baseurl}}/media/croppedfadeducc-hero.png){:.responsive-img .centered-image}
+![UCC Hero]({{site.baseurl}}/media/croppedfadeducc-hero.png){:.responsive-img .image-full}
 
 ___
 
