@@ -8,7 +8,7 @@ title: Technical Assistance
 description: >-
 keywords: 'direct programming, workshops, clients, ucc'
 # custom variables
-
+sidebar: sidebars/graduate.html   
 ---
 ## Building Organizational and Community Capacity
 ---
