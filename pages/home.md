@@ -13,8 +13,9 @@ feature-title:
 feature-image: media/uccheronew.jpg
 feature-body: >-
 ---
-![Nuala and Students]({{site.baseurl}}/media/Resized Teaching Consent.jpg){:.img-right}
+![UCC Hero]({{site.baseurl}}/media/croppedfadeducc-hero.png){:.responsive-img .img-center}
 
+![Nuala and Students]({{site.baseurl}}/media/Resized Teaching Consent.jpg){:.img-right}
 ## Mission Statement
 The Collaborative prepares and supports youth and young adults to become confident, effective leaders and creates cultures that value and integrate the contributions of youth, thereby building stronger communities.
 
