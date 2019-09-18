@@ -10,9 +10,7 @@ keywords: 'donate, collaborators, foundations, funders'
 # custom variables
 sidebar: sidebars/graduate.html   
 ---
-![Donate Online]({{site.baseurl}}/media/give-now-1.png)
-
-_**To make an online donation to The Collaborative, please go to our [Giving Site](http://giving.temple.edu/givetoUCCP)**_.
+Over the years, the Collaborative has benefitted from the strong support of many philanthropic organizations, government agencies, and individual donors. Without their support, none of this work would be possible. 
 
 ## Funders
 ---
@@ -57,6 +55,10 @@ _**To make an online donation to The Collaborative, please go to our [Giving Sit
 - Philadelphia Health Management Corporation
 - Philadelphia Youth Network
 - United Way of Southeastern PA
+
+![Donate Online]({{site.baseurl}}/media/give-now-1.png)
+
+_**To make an online donation to The Collaborative, please go to our [Giving Site](http://giving.temple.edu/givetoUCCP)**_.
 
 ## Collaborations
 ---
