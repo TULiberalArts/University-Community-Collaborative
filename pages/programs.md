@@ -61,19 +61,6 @@ For more information, please contact POPPYN Coordinator Stormy Kelsey at [215-20
     
 ___
 
-### Youth Action Scholars
-Youth Action Scholars provides the next step for youth who have completed VOICES or the POWER Internship. Over the course of a year, participants form a team to identify an issue, conduct related research to become experts in the topic, and raise awareness through community educational workshops and events.
-
-> _“Youth Action Scholars allowed me to get the field work I needed to pass my senior project.  It also taught me about teamwork, accountability and reliability.  The staff here is great, they are incredibly helpful and informative.” -YAS participant, 2010_
-
-![Youth Action Scholars]({{site.baseurl}}/media/resizedyouthactionscholars.jpg){:.responsive-img .img-right}
-
-For youth who have gone through VOICES or POWER, this year long program equips students with the skills and ability to become Peer Educators. Through research and networking, Youth Action Scholars educate themselves on a topic and then develop and conduct workshops to raise awareness amongst their peers. Through these various activities, Youth Action Scholars hope to build communities of interest and engagement. YAS meets one day per week for 3 hours.
-
-> _“Ever since I joined the Youth Action Scholars, I have gained skills to better myself as a leader.  In my school, I have begun to help people understand things that I have learned…The Leaders Corps and staff have supported me wonderfully.  In don’t  think anything can be done to better support me.”  -YAS participant, 2010_
-
-___
-
 ### Leaders Corps
 **Leaders Corps** provides paid leadership positions within The Collaborative for former program participants to facilitate all youth leadership programs, assist in training and technical assistance activities and participate in other aspects of the organization.
 
