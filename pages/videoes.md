@@ -11,16 +11,35 @@ keywords: 'POPPYN videos, awards'
 sidebar: sidebars/graduate.html   
 ---
 ## Videos
+The University Community Collaborative has created a number of youth produced films that have been used as teaching tools in classrooms and communities all across the world. 
 
-- [Listen Up](https://www.youtube.com/watch?v=mR1lpnaqWKM&feature=youtu.be)
-- [Power Over Bullying](https://youtu.be/bM-orb7CDcM)
-- [Youth and Housing Insecurity](https://youtu.be/Cp-9wj1wgSg)
-- [POPPYN Ep 15: The Express](https://youtu.be/qJo7yNF2SYg)
-- [POPPYN Ep 12: Let’s Talk About Sex](https://www.youtube.com/watch?v=qHE35-CUWns)<br/>
-In this episode we explore sexual health, sexuality, consent and youth perceptions around sex. Check it out and let us know what u think.
-- [POPPYN Ep 8: How Philly gets PHIT](https://youtu.be/EY6cuTXauWM)<br/>
-In this episode, POPPYN covers the ways that young people get and stay fit around Philly.
-- [POPPYN Ep 21: Youth and the Foster Care System](https://www.youtube.com/watch?v=vlhcwYQDylI)
+[**Ten Years Too Long: Funding, Taxes and Philadelphia Schools**](https://www.youtube.com/watch?v=jUlR2SnROX0&t=5s)
+Power interns share their experiences in the Philadelphia school district and investigate the factors in how their schools are funded. 
+
+<div align="center" class="video-container"><iframe width="560" height="315" src="https://www.youtube.com/embed/jUlR2SnROX0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+___
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Awards
 The following list of awards were accomplished by our amazing students through various programs or films throughtout the Philadelphia areas. Most of theses are for award winning films!
