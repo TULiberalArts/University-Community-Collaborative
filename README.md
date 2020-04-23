@@ -6,7 +6,7 @@ University Community Collaborative is statically generated with [Jekyll](https:/
 
 | Links |  |
 | --- | --- |
-| Development | https://develop.cla.temple.edu/university-community-collaborative/ |
+| Development | https://cla.temple.edu/university-community-collaborative/ |
 | Production | |
 
 ## Content Structure
